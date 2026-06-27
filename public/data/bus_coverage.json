@@ -1,0 +1,3956 @@
+{
+  "params": {
+    "feeder_radius_m": 400.0,
+    "stop_buffer_m": 250.0,
+    "catchment_m": 4000.0,
+    "fare": 45.0
+  },
+  "totals": {
+    "pop_catchment": 4857713,
+    "pop_served": 2126016,
+    "pop_unserved": 2731698,
+    "revenue_left": 122926399
+  },
+  "stations": [
+    {
+      "stop_id": "KGWA",
+      "name": "Nadaprabhu Kempegowda Station, Majestic",
+      "lines": [
+        "GREEN",
+        "PURPLE"
+      ],
+      "feeder_stops": 4,
+      "nearest_bus_m": 201.8,
+      "n_routes": 289,
+      "n_covered_stops": 2209,
+      "coverage_fraction": 0.4783,
+      "pop_catchment": 1420986,
+      "pop_served": 622916,
+      "pop_unserved": 798070,
+      "pop_coverage_fraction": 0.4384,
+      "revenue_left": 35913145,
+      "feeders": [
+        {
+          "stop_id": "20922",
+          "name": "Kempegowda Bus Station",
+          "lon": 77.57327,
+          "lat": 12.97749,
+          "dist_m": 201.8,
+          "n_routes": 140
+        },
+        {
+          "stop_id": "20921",
+          "name": "Kempegowda Bus Station",
+          "lon": 77.57141,
+          "lat": 12.97751,
+          "dist_m": 255.2,
+          "n_routes": 152
+        },
+        {
+          "stop_id": "35931",
+          "name": "Kempegowda Bus Station(Majestic/KBS)",
+          "lon": 77.57389,
+          "lat": 12.97793,
+          "dist_m": 269.5,
+          "n_routes": 2
+        },
+        {
+          "stop_id": "38432",
+          "name": "Kranthiveera Sangolli Rayanna Railway Station",
+          "lon": 77.57093,
+          "lat": 12.97818,
+          "dist_m": 345.7,
+          "n_routes": 0
+        }
+      ]
+    },
+    {
+      "stop_id": "VSWA",
+      "name": "Sir M. Visvesvaraya Stn., Central College",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 10,
+      "nearest_bus_m": 228.7,
+      "n_routes": 196,
+      "n_covered_stops": 1768,
+      "coverage_fraction": 0.4395,
+      "pop_catchment": 1276974,
+      "pop_served": 506002,
+      "pop_unserved": 770972,
+      "pop_coverage_fraction": 0.3963,
+      "revenue_left": 34693753,
+      "feeders": [
+        {
+          "stop_id": "24128",
+          "name": "City Civil Court",
+          "lon": 77.58243,
+          "lat": 12.97343,
+          "dist_m": 228.7,
+          "n_routes": 1
+        },
+        {
+          "stop_id": "37720",
+          "name": "City Civil Court (CHAKRA)",
+          "lon": 77.58237,
+          "lat": 12.97339,
+          "dist_m": 236.6,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "20696",
+          "name": "Cauvery Bhavana",
+          "lon": 77.58183,
+          "lat": 12.97438,
+          "dist_m": 259.9,
+          "n_routes": 9
+        },
+        {
+          "stop_id": "22197",
+          "name": "KR Circle",
+          "lon": 77.5864,
+          "lat": 12.97555,
+          "dist_m": 262.7,
+          "n_routes": 5
+        },
+        {
+          "stop_id": "20939",
+          "name": "KR Circle",
+          "lon": 77.58661,
+          "lat": 12.97386,
+          "dist_m": 269.5,
+          "n_routes": 82
+        },
+        {
+          "stop_id": "20697",
+          "name": "Cauvery Bhavana",
+          "lon": 77.58157,
+          "lat": 12.97372,
+          "dist_m": 301.0,
+          "n_routes": 18
+        },
+        {
+          "stop_id": "20983",
+          "name": "Maharani College",
+          "lon": 77.58567,
+          "lat": 12.97697,
+          "dist_m": 313.6,
+          "n_routes": 13
+        },
+        {
+          "stop_id": "20981",
+          "name": "Maharani College",
+          "lon": 77.5858,
+          "lat": 12.97703,
+          "dist_m": 326.5,
+          "n_routes": 79
+        },
+        {
+          "stop_id": "35383",
+          "name": "Mysore Bank",
+          "lon": 77.58199,
+          "lat": 12.97253,
+          "dist_m": 327.3,
+          "n_routes": 75
+        },
+        {
+          "stop_id": "38782",
+          "name": "Reserve Bank Of India Nrupatunga Road",
+          "lon": 77.58689,
+          "lat": 12.97214,
+          "dist_m": 391.7,
+          "n_routes": 0
+        }
+      ]
+    },
+    {
+      "stop_id": "RJNR",
+      "name": "Rajajinagar",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 9,
+      "nearest_bus_m": 81.6,
+      "n_routes": 65,
+      "n_covered_stops": 569,
+      "coverage_fraction": 0.423,
+      "pop_catchment": 1289104,
+      "pop_served": 578410,
+      "pop_unserved": 710694,
+      "pop_coverage_fraction": 0.4487,
+      "revenue_left": 31981230,
+      "feeders": [
+        {
+          "stop_id": "34333",
+          "name": "Rajajinagara Metro Station",
+          "lon": 77.54991,
+          "lat": 12.99983,
+          "dist_m": 81.6,
+          "n_routes": 10
+        },
+        {
+          "stop_id": "24187",
+          "name": "Canara Bank Rajajinagara 1st Block",
+          "lon": 77.55044,
+          "lat": 13.00089,
+          "dist_m": 93.8,
+          "n_routes": 19
+        },
+        {
+          "stop_id": "21050",
+          "name": "Navarang Theatre 1",
+          "lon": 77.54976,
+          "lat": 12.99967,
+          "dist_m": 95.3,
+          "n_routes": 12
+        },
+        {
+          "stop_id": "35290",
+          "name": "Navarang Theatre",
+          "lon": 77.55096,
+          "lat": 12.99825,
+          "dist_m": 288.7,
+          "n_routes": 14
+        },
+        {
+          "stop_id": "21049",
+          "name": "Navarang Theatre",
+          "lon": 77.54884,
+          "lat": 12.99748,
+          "dist_m": 348.6,
+          "n_routes": 8
+        },
+        {
+          "stop_id": "21051",
+          "name": "Navarang Theatre",
+          "lon": 77.55159,
+          "lat": 12.99791,
+          "dist_m": 357.3,
+          "n_routes": 11
+        },
+        {
+          "stop_id": "35082",
+          "name": "Navarang Theatre",
+          "lon": 77.55113,
+          "lat": 12.99762,
+          "dist_m": 359.0,
+          "n_routes": 12
+        },
+        {
+          "stop_id": "22893",
+          "name": "Diacon Hospital",
+          "lon": 77.55003,
+          "lat": 13.00379,
+          "dist_m": 363.6,
+          "n_routes": 12
+        },
+        {
+          "stop_id": "24193",
+          "name": "Diacon Hospital",
+          "lon": 77.55002,
+          "lat": 13.00398,
+          "dist_m": 384.4,
+          "n_routes": 10
+        }
+      ]
+    },
+    {
+      "stop_id": "CBPK",
+      "name": "Cubbon Park",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 13,
+      "nearest_bus_m": 40.6,
+      "n_routes": 111,
+      "n_covered_stops": 978,
+      "coverage_fraction": 0.3732,
+      "pop_catchment": 1067877,
+      "pop_served": 340886,
+      "pop_unserved": 726991,
+      "pop_coverage_fraction": 0.3192,
+      "revenue_left": 32714605,
+      "feeders": [
+        {
+          "stop_id": "24741",
+          "name": "Cubbon Park Metro Station",
+          "lon": 77.59722,
+          "lat": 12.98083,
+          "dist_m": 40.6,
+          "n_routes": 1
+        },
+        {
+          "stop_id": "38584",
+          "name": "Cubbon Park Metro Station",
+          "lon": 77.59722,
+          "lat": 12.9812,
+          "dist_m": 46.5,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "38459",
+          "name": "Cubbon Park Metro Station",
+          "lon": 77.59831,
+          "lat": 12.98068,
+          "dist_m": 86.0,
+          "n_routes": 1
+        },
+        {
+          "stop_id": "37694",
+          "name": "Cubbon Park Metro Station",
+          "lon": 77.59835,
+          "lat": 12.98068,
+          "dist_m": 90.1,
+          "n_routes": 1
+        },
+        {
+          "stop_id": "20798",
+          "name": "GPO",
+          "lon": 77.5951,
+          "lat": 12.98173,
+          "dist_m": 281.4,
+          "n_routes": 1
+        },
+        {
+          "stop_id": "35138",
+          "name": "Indian Express",
+          "lon": 77.59646,
+          "lat": 12.98362,
+          "dist_m": 318.4,
+          "n_routes": 20
+        },
+        {
+          "stop_id": "20857",
+          "name": "Indian Express",
+          "lon": 77.5974,
+          "lat": 12.98393,
+          "dist_m": 329.5,
+          "n_routes": 23
+        },
+        {
+          "stop_id": "35192",
+          "name": "Indian Express",
+          "lon": 77.59716,
+          "lat": 12.98402,
+          "dist_m": 341.9,
+          "n_routes": 1
+        },
+        {
+          "stop_id": "26121",
+          "name": "Indian Express",
+          "lon": 77.59645,
+          "lat": 12.98387,
+          "dist_m": 344.5,
+          "n_routes": 11
+        },
+        {
+          "stop_id": "20799",
+          "name": "GPO",
+          "lon": 77.59436,
+          "lat": 12.98137,
+          "dist_m": 351.4,
+          "n_routes": 2
+        },
+        {
+          "stop_id": "20855",
+          "name": "Indian Express",
+          "lon": 77.59827,
+          "lat": 12.98408,
+          "dist_m": 353.8,
+          "n_routes": 28
+        },
+        {
+          "stop_id": "22068",
+          "name": "Indian Express",
+          "lon": 77.59735,
+          "lat": 12.98421,
+          "dist_m": 360.8,
+          "n_routes": 27
+        },
+        {
+          "stop_id": "21525",
+          "name": "GPO",
+          "lon": 77.59405,
+          "lat": 12.98137,
+          "dist_m": 384.8,
+          "n_routes": 1
+        }
+      ]
+    },
+    {
+      "stop_id": "VJN",
+      "name": "Vijayanagar",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 6,
+      "nearest_bus_m": 110.1,
+      "n_routes": 66,
+      "n_covered_stops": 705,
+      "coverage_fraction": 0.3627,
+      "pop_catchment": 1372258,
+      "pop_served": 475931,
+      "pop_unserved": 896327,
+      "pop_coverage_fraction": 0.3468,
+      "revenue_left": 40334706,
+      "feeders": [
+        {
+          "stop_id": "21266",
+          "name": "Vijayanagara",
+          "lon": 77.53766,
+          "lat": 12.97192,
+          "dist_m": 110.1,
+          "n_routes": 24
+        },
+        {
+          "stop_id": "21623",
+          "name": "Vijayanagara",
+          "lon": 77.53786,
+          "lat": 12.97197,
+          "dist_m": 122.4,
+          "n_routes": 23
+        },
+        {
+          "stop_id": "35407",
+          "name": "Vijayanagara",
+          "lon": 77.53816,
+          "lat": 12.97311,
+          "dist_m": 251.9,
+          "n_routes": 12
+        },
+        {
+          "stop_id": "21010",
+          "name": "Maruthi Mandira",
+          "lon": 77.53637,
+          "lat": 12.96785,
+          "dist_m": 361.9,
+          "n_routes": 21
+        },
+        {
+          "stop_id": "21011",
+          "name": "Maruthi Mandira",
+          "lon": 77.53615,
+          "lat": 12.96779,
+          "dist_m": 376.2,
+          "n_routes": 23
+        },
+        {
+          "stop_id": "37817",
+          "name": "Vijayanagara",
+          "lon": 77.53843,
+          "lat": 12.97433,
+          "dist_m": 389.5,
+          "n_routes": 7
+        }
+      ]
+    },
+    {
+      "stop_id": "DJNR",
+      "name": "Deepanjali Nagar",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 5,
+      "nearest_bus_m": 77.0,
+      "n_routes": 84,
+      "n_covered_stops": 767,
+      "coverage_fraction": 0.3544,
+      "pop_catchment": 1128017,
+      "pop_served": 427497,
+      "pop_unserved": 700520,
+      "pop_coverage_fraction": 0.379,
+      "revenue_left": 31523387,
+      "feeders": [
+        {
+          "stop_id": "20739",
+          "name": "Deepanjalinagara",
+          "lon": 77.53724,
+          "lat": 12.9514,
+          "dist_m": 77.0,
+          "n_routes": 45
+        },
+        {
+          "stop_id": "20738",
+          "name": "Deepanjalinagara",
+          "lon": 77.53624,
+          "lat": 12.95375,
+          "dist_m": 205.1,
+          "n_routes": 20
+        },
+        {
+          "stop_id": "29805",
+          "name": "BCC Layout Cross",
+          "lon": 77.53486,
+          "lat": 12.95473,
+          "dist_m": 376.8,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "20664",
+          "name": "BHEL",
+          "lon": 77.53583,
+          "lat": 12.94872,
+          "dist_m": 391.1,
+          "n_routes": 28
+        },
+        {
+          "stop_id": "20661",
+          "name": "BHEL",
+          "lon": 77.53559,
+          "lat": 12.94874,
+          "dist_m": 398.3,
+          "n_routes": 34
+        }
+      ]
+    },
+    {
+      "stop_id": "HSLI",
+      "name": "Sri Balagangadharanatha Swamiji Station, Hosahalli",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 8,
+      "nearest_bus_m": 106.7,
+      "n_routes": 83,
+      "n_covered_stops": 791,
+      "coverage_fraction": 0.3451,
+      "pop_catchment": 1540282,
+      "pop_served": 521691,
+      "pop_unserved": 1018592,
+      "pop_coverage_fraction": 0.3387,
+      "revenue_left": 45836621,
+      "feeders": [
+        {
+          "stop_id": "20996",
+          "name": "Manuvana",
+          "lon": 77.54656,
+          "lat": 12.97401,
+          "dist_m": 106.7,
+          "n_routes": 22
+        },
+        {
+          "stop_id": "20997",
+          "name": "Manuvana",
+          "lon": 77.54454,
+          "lat": 12.97431,
+          "dist_m": 117.3,
+          "n_routes": 20
+        },
+        {
+          "stop_id": "28613",
+          "name": "Magadi Road Tollgate",
+          "lon": 77.54818,
+          "lat": 12.9752,
+          "dist_m": 295.5,
+          "n_routes": 5
+        },
+        {
+          "stop_id": "22236",
+          "name": "Magadi Road TollGate",
+          "lon": 77.54845,
+          "lat": 12.97537,
+          "dist_m": 329.5,
+          "n_routes": 11
+        },
+        {
+          "stop_id": "23481",
+          "name": "Magadi Road TollGate",
+          "lon": 77.54866,
+          "lat": 12.97516,
+          "dist_m": 343.7,
+          "n_routes": 7
+        },
+        {
+          "stop_id": "20976",
+          "name": "Magadi Road TollGate",
+          "lon": 77.54897,
+          "lat": 12.97459,
+          "dist_m": 365.1,
+          "n_routes": 30
+        },
+        {
+          "stop_id": "20975",
+          "name": "Magadi Road TollGate",
+          "lon": 77.54902,
+          "lat": 12.97437,
+          "dist_m": 369.2,
+          "n_routes": 22
+        },
+        {
+          "stop_id": "21013",
+          "name": "MC Layout",
+          "lon": 77.54212,
+          "lat": 12.97498,
+          "dist_m": 387.5,
+          "n_routes": 8
+        }
+      ]
+    },
+    {
+      "stop_id": "MHLI",
+      "name": "Mahalakshmi",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 7,
+      "nearest_bus_m": 30.7,
+      "n_routes": 53,
+      "n_covered_stops": 490,
+      "coverage_fraction": 0.3308,
+      "pop_catchment": 1146350,
+      "pop_served": 406358,
+      "pop_unserved": 739992,
+      "pop_coverage_fraction": 0.3545,
+      "revenue_left": 33299647,
+      "feeders": [
+        {
+          "stop_id": "20980",
+          "name": "Mahalakshmi Layout Entrance",
+          "lon": 77.54867,
+          "lat": 13.00782,
+          "dist_m": 30.7,
+          "n_routes": 14
+        },
+        {
+          "stop_id": "20979",
+          "name": "Mahalakshmi Layout Entrance",
+          "lon": 77.54879,
+          "lat": 13.00736,
+          "dist_m": 81.8,
+          "n_routes": 18
+        },
+        {
+          "stop_id": "24188",
+          "name": "Mahalakshmi Layout Entrance",
+          "lon": 77.548,
+          "lat": 13.00779,
+          "dist_m": 84.1,
+          "n_routes": 19
+        },
+        {
+          "stop_id": "20576",
+          "name": "1st Block Rajajinagara",
+          "lon": 77.54887,
+          "lat": 13.00515,
+          "dist_m": 326.4,
+          "n_routes": 18
+        },
+        {
+          "stop_id": "35796",
+          "name": "Rajajinagara 1st Block",
+          "lon": 77.54923,
+          "lat": 13.00476,
+          "dist_m": 373.4,
+          "n_routes": 8
+        },
+        {
+          "stop_id": "20575",
+          "name": "1st Block Rajajinagara",
+          "lon": 77.54909,
+          "lat": 13.0047,
+          "dist_m": 378.1,
+          "n_routes": 14
+        },
+        {
+          "stop_id": "24189",
+          "name": "Srinavasa Temple",
+          "lon": 77.54508,
+          "lat": 13.00831,
+          "dist_m": 394.7,
+          "n_routes": 15
+        }
+      ]
+    },
+    {
+      "stop_id": "BSNK",
+      "name": "Banashankari",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 5,
+      "nearest_bus_m": 121.4,
+      "n_routes": 129,
+      "n_covered_stops": 1032,
+      "coverage_fraction": 0.3293,
+      "pop_catchment": 858973,
+      "pop_served": 304358,
+      "pop_unserved": 554614,
+      "pop_coverage_fraction": 0.3543,
+      "revenue_left": 24957647,
+      "feeders": [
+        {
+          "stop_id": "21711",
+          "name": "Banashankari",
+          "lon": 77.57373,
+          "lat": 12.91631,
+          "dist_m": 121.4,
+          "n_routes": 10
+        },
+        {
+          "stop_id": "20622",
+          "name": "Banashankari",
+          "lon": 77.57325,
+          "lat": 12.91679,
+          "dist_m": 177.8,
+          "n_routes": 5
+        },
+        {
+          "stop_id": "20624",
+          "name": "Banashankari Bus Station",
+          "lon": 77.5727,
+          "lat": 12.91736,
+          "dist_m": 256.1,
+          "n_routes": 42
+        },
+        {
+          "stop_id": "20621",
+          "name": "Banashankari Bus Station",
+          "lon": 77.57403,
+          "lat": 12.91765,
+          "dist_m": 272.9,
+          "n_routes": 6
+        },
+        {
+          "stop_id": "20623",
+          "name": "Banashankari Bus Station",
+          "lon": 77.57272,
+          "lat": 12.91779,
+          "dist_m": 300.0,
+          "n_routes": 75
+        }
+      ]
+    },
+    {
+      "stop_id": "SPGD",
+      "name": "Mantri Square Sampige Road",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 7,
+      "nearest_bus_m": 136.0,
+      "n_routes": 71,
+      "n_covered_stops": 632,
+      "coverage_fraction": 0.3061,
+      "pop_catchment": 1352550,
+      "pop_served": 412203,
+      "pop_unserved": 940347,
+      "pop_coverage_fraction": 0.3048,
+      "revenue_left": 42315636,
+      "feeders": [
+        {
+          "stop_id": "23426",
+          "name": "Central",
+          "lon": 77.57181,
+          "lat": 12.98984,
+          "dist_m": 136.0,
+          "n_routes": 4
+        },
+        {
+          "stop_id": "20702",
+          "name": "Central",
+          "lon": 77.57199,
+          "lat": 12.99006,
+          "dist_m": 143.9,
+          "n_routes": 30
+        },
+        {
+          "stop_id": "20703",
+          "name": "Central",
+          "lon": 77.57204,
+          "lat": 12.9898,
+          "dist_m": 160.0,
+          "n_routes": 35
+        },
+        {
+          "stop_id": "37962",
+          "name": "Mantri Green Apartment Sampige Talkies",
+          "lon": 77.57045,
+          "lat": 12.99319,
+          "dist_m": 303.4,
+          "n_routes": 2
+        },
+        {
+          "stop_id": "29414",
+          "name": "7th Cross Srirampura",
+          "lon": 77.56787,
+          "lat": 12.99051,
+          "dist_m": 310.5,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "28922",
+          "name": "MD Block",
+          "lon": 77.56954,
+          "lat": 12.99324,
+          "dist_m": 333.4,
+          "n_routes": 1
+        },
+        {
+          "stop_id": "35073",
+          "name": "Swastik Sheshadripuram College",
+          "lon": 77.57416,
+          "lat": 12.98916,
+          "dist_m": 399.3,
+          "n_routes": 2
+        }
+      ]
+    },
+    {
+      "stop_id": "KRMT",
+      "name": "Krishna Rajendra Market",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 5,
+      "nearest_bus_m": 166.7,
+      "n_routes": 87,
+      "n_covered_stops": 1042,
+      "coverage_fraction": 0.3014,
+      "pop_catchment": 1391893,
+      "pop_served": 443913,
+      "pop_unserved": 947980,
+      "pop_coverage_fraction": 0.3189,
+      "revenue_left": 42659106,
+      "feeders": [
+        {
+          "stop_id": "21557",
+          "name": "KR Market",
+          "lon": 77.5756,
+          "lat": 12.96207,
+          "dist_m": 166.7,
+          "n_routes": 17
+        },
+        {
+          "stop_id": "20945",
+          "name": "KR Market (Kalasipalya)",
+          "lon": 77.57736,
+          "lat": 12.96154,
+          "dist_m": 302.1,
+          "n_routes": 33
+        },
+        {
+          "stop_id": "20944",
+          "name": "KR Market (Kalasipalya)",
+          "lon": 77.57711,
+          "lat": 12.95916,
+          "dist_m": 327.0,
+          "n_routes": 36
+        },
+        {
+          "stop_id": "20986",
+          "name": "Makkala Koota",
+          "lon": 77.57385,
+          "lat": 12.95803,
+          "dist_m": 327.4,
+          "n_routes": 27
+        },
+        {
+          "stop_id": "20987",
+          "name": "Makkala Koota",
+          "lon": 77.57388,
+          "lat": 12.95779,
+          "dist_m": 352.3,
+          "n_routes": 12
+        }
+      ]
+    },
+    {
+      "stop_id": "MIRD",
+      "name": "Magadi Road",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 6,
+      "nearest_bus_m": 30.4,
+      "n_routes": 53,
+      "n_covered_stops": 514,
+      "coverage_fraction": 0.3007,
+      "pop_catchment": 1615019,
+      "pop_served": 467925,
+      "pop_unserved": 1147095,
+      "pop_coverage_fraction": 0.2897,
+      "revenue_left": 51619267,
+      "feeders": [
+        {
+          "stop_id": "20558",
+          "name": "10th Cross Magadi Road",
+          "lon": 77.55562,
+          "lat": 12.97556,
+          "dist_m": 30.4,
+          "n_routes": 21
+        },
+        {
+          "stop_id": "38801",
+          "name": "Magadi Road Metro Station",
+          "lon": 77.55486,
+          "lat": 12.97553,
+          "dist_m": 54.4,
+          "n_routes": 21
+        },
+        {
+          "stop_id": "38800",
+          "name": "Magadi Road Metro Station",
+          "lon": 77.55479,
+          "lat": 12.97562,
+          "dist_m": 60.8,
+          "n_routes": 23
+        },
+        {
+          "stop_id": "20559",
+          "name": "10th Cross Magadi Road",
+          "lon": 77.55706,
+          "lat": 12.97574,
+          "dist_m": 186.0,
+          "n_routes": 23
+        },
+        {
+          "stop_id": "21102",
+          "name": "Prasanna Theatre",
+          "lon": 77.55288,
+          "lat": 12.97542,
+          "dist_m": 269.2,
+          "n_routes": 24
+        },
+        {
+          "stop_id": "21103",
+          "name": "Prasanna Theatre",
+          "lon": 77.55234,
+          "lat": 12.9754,
+          "dist_m": 327.8,
+          "n_routes": 11
+        }
+      ]
+    },
+    {
+      "stop_id": "SSFY",
+      "name": "Sandal Soap Factory",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 5,
+      "nearest_bus_m": 126.4,
+      "n_routes": 35,
+      "n_covered_stops": 482,
+      "coverage_fraction": 0.2965,
+      "pop_catchment": 1041924,
+      "pop_served": 342079,
+      "pop_unserved": 699845,
+      "pop_coverage_fraction": 0.3283,
+      "revenue_left": 31493015,
+      "feeders": [
+        {
+          "stop_id": "20797",
+          "name": "Govt Soap Factory",
+          "lon": 77.55385,
+          "lat": 13.01352,
+          "dist_m": 126.4,
+          "n_routes": 18
+        },
+        {
+          "stop_id": "20796",
+          "name": "Govt Soap Factory",
+          "lon": 77.55438,
+          "lat": 13.01309,
+          "dist_m": 178.3,
+          "n_routes": 17
+        },
+        {
+          "stop_id": "23325",
+          "name": "Govt Soap Factory",
+          "lon": 77.55373,
+          "lat": 13.01284,
+          "dist_m": 202.7,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "20793",
+          "name": "Govardhan Talkies",
+          "lon": 77.55374,
+          "lat": 13.01781,
+          "dist_m": 350.4,
+          "n_routes": 15
+        },
+        {
+          "stop_id": "34193",
+          "name": "Orion Mall Malleshwaram",
+          "lon": 77.55439,
+          "lat": 13.01123,
+          "dist_m": 381.5,
+          "n_routes": 0
+        }
+      ]
+    },
+    {
+      "stop_id": "SPRU",
+      "name": "Srirampura",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 6,
+      "nearest_bus_m": 108.7,
+      "n_routes": 24,
+      "n_covered_stops": 288,
+      "coverage_fraction": 0.2911,
+      "pop_catchment": 1356821,
+      "pop_served": 407819,
+      "pop_unserved": 949002,
+      "pop_coverage_fraction": 0.3006,
+      "revenue_left": 42705100,
+      "feeders": [
+        {
+          "stop_id": "20752",
+          "name": "Devaiah Park",
+          "lon": 77.56419,
+          "lat": 12.99642,
+          "dist_m": 108.7,
+          "n_routes": 12
+        },
+        {
+          "stop_id": "20751",
+          "name": "Devaiah Park",
+          "lon": 77.56424,
+          "lat": 12.99628,
+          "dist_m": 116.7,
+          "n_routes": 12
+        },
+        {
+          "stop_id": "20810",
+          "name": "Harishchandra Ghat",
+          "lon": 77.56089,
+          "lat": 12.99695,
+          "dist_m": 254.5,
+          "n_routes": 12
+        },
+        {
+          "stop_id": "20811",
+          "name": "Harishchandra Ghat",
+          "lon": 77.56047,
+          "lat": 12.99729,
+          "dist_m": 307.6,
+          "n_routes": 12
+        },
+        {
+          "stop_id": "24678",
+          "name": "Chowdeshwari Temple",
+          "lon": 77.56638,
+          "lat": 12.99483,
+          "dist_m": 393.4,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "25360",
+          "name": "Gayathri Nagara",
+          "lon": 77.55996,
+          "lat": 12.99824,
+          "dist_m": 399.1,
+          "n_routes": 0
+        }
+      ]
+    },
+    {
+      "stop_id": "KVPR",
+      "name": "Mahakavi Kuvempu Road",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 4,
+      "nearest_bus_m": 42.4,
+      "n_routes": 24,
+      "n_covered_stops": 288,
+      "coverage_fraction": 0.2902,
+      "pop_catchment": 1343471,
+      "pop_served": 408866,
+      "pop_unserved": 934605,
+      "pop_coverage_fraction": 0.3043,
+      "revenue_left": 42057207,
+      "feeders": [
+        {
+          "stop_id": "21008",
+          "name": "Mariyappanapalya",
+          "lon": 77.55652,
+          "lat": 12.99862,
+          "dist_m": 42.4,
+          "n_routes": 12
+        },
+        {
+          "stop_id": "21007",
+          "name": "Mariyappanapalya",
+          "lon": 77.55574,
+          "lat": 12.99858,
+          "dist_m": 126.0,
+          "n_routes": 12
+        },
+        {
+          "stop_id": "32658",
+          "name": "Gayathri Nagara",
+          "lon": 77.55991,
+          "lat": 12.99828,
+          "dist_m": 327.9,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "25360",
+          "name": "Gayathri Nagara",
+          "lon": 77.55996,
+          "lat": 12.99824,
+          "dist_m": 333.7,
+          "n_routes": 0
+        }
+      ]
+    },
+    {
+      "stop_id": "MYRD",
+      "name": "Mysore Road",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 6,
+      "nearest_bus_m": 51.3,
+      "n_routes": 80,
+      "n_covered_stops": 750,
+      "coverage_fraction": 0.2884,
+      "pop_catchment": 893104,
+      "pop_served": 251711,
+      "pop_unserved": 641393,
+      "pop_coverage_fraction": 0.2818,
+      "revenue_left": 28862691,
+      "feeders": [
+        {
+          "stop_id": "23370",
+          "name": "Mysore Road Metro Station",
+          "lon": 77.53046,
+          "lat": 12.94636,
+          "dist_m": 51.3,
+          "n_routes": 27
+        },
+        {
+          "stop_id": "21580",
+          "name": "Mysore Road Metro Station",
+          "lon": 77.52972,
+          "lat": 12.94633,
+          "dist_m": 64.2,
+          "n_routes": 34
+        },
+        {
+          "stop_id": "37961",
+          "name": "Nayandahalli Junction",
+          "lon": 77.52821,
+          "lat": 12.94574,
+          "dist_m": 237.8,
+          "n_routes": 4
+        },
+        {
+          "stop_id": "20887",
+          "name": "Nayandahalli Junction",
+          "lon": 77.52857,
+          "lat": 12.94509,
+          "dist_m": 249.5,
+          "n_routes": 11
+        },
+        {
+          "stop_id": "34321",
+          "name": "Nayandahalli Junction",
+          "lon": 77.52755,
+          "lat": 12.94552,
+          "dist_m": 312.9,
+          "n_routes": 10
+        },
+        {
+          "stop_id": "23371",
+          "name": "Nayandahalli Junction",
+          "lon": 77.53029,
+          "lat": 12.94381,
+          "dist_m": 322.2,
+          "n_routes": 13
+        }
+      ]
+    },
+    {
+      "stop_id": "JLHL",
+      "name": "Jalahalli",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 6,
+      "nearest_bus_m": 49.2,
+      "n_routes": 113,
+      "n_covered_stops": 972,
+      "coverage_fraction": 0.2858,
+      "pop_catchment": 409253,
+      "pop_served": 116019,
+      "pop_unserved": 293235,
+      "pop_coverage_fraction": 0.2835,
+      "revenue_left": 13195561,
+      "feeders": [
+        {
+          "stop_id": "35866",
+          "name": "Jalahalli Cross  Metro Station Departure",
+          "lon": 77.51933,
+          "lat": 13.0396,
+          "dist_m": 49.2,
+          "n_routes": 7
+        },
+        {
+          "stop_id": "36453",
+          "name": "Jalahalli Cross Metro Station Arrival",
+          "lon": 77.5191,
+          "lat": 13.03971,
+          "dist_m": 77.0,
+          "n_routes": 6
+        },
+        {
+          "stop_id": "20869",
+          "name": "Jalahalli Cross",
+          "lon": 77.51879,
+          "lat": 13.0399,
+          "dist_m": 116.5,
+          "n_routes": 30
+        },
+        {
+          "stop_id": "20870",
+          "name": "Jalahalli Cross",
+          "lon": 77.51843,
+          "lat": 13.03949,
+          "dist_m": 142.4,
+          "n_routes": 34
+        },
+        {
+          "stop_id": "20867",
+          "name": "Jalahalli Cross",
+          "lon": 77.51823,
+          "lat": 13.03991,
+          "dist_m": 173.0,
+          "n_routes": 37
+        },
+        {
+          "stop_id": "22091",
+          "name": "Jalahalli Cross",
+          "lon": 77.51872,
+          "lat": 13.04066,
+          "dist_m": 177.2,
+          "n_routes": 5
+        }
+      ]
+    },
+    {
+      "stop_id": "RRRN",
+      "name": "Rajarajeshwari Nagar",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 5,
+      "nearest_bus_m": 35.2,
+      "n_routes": 50,
+      "n_covered_stops": 608,
+      "coverage_fraction": 0.2753,
+      "pop_catchment": 472916,
+      "pop_served": 109284,
+      "pop_unserved": 363632,
+      "pop_coverage_fraction": 0.2311,
+      "revenue_left": 16363459,
+      "feeders": [
+        {
+          "stop_id": "36458",
+          "name": "Rajarajeshwari nagara Metro Station",
+          "lon": 77.51948,
+          "lat": 12.93635,
+          "dist_m": 35.2,
+          "n_routes": 2
+        },
+        {
+          "stop_id": "21140",
+          "name": "Rajarajeshwari nagara Gate",
+          "lon": 77.51861,
+          "lat": 12.93649,
+          "dist_m": 116.8,
+          "n_routes": 26
+        },
+        {
+          "stop_id": "28062",
+          "name": "Rajarajeshwari nagara Gate",
+          "lon": 77.51824,
+          "lat": 12.93574,
+          "dist_m": 183.0,
+          "n_routes": 5
+        },
+        {
+          "stop_id": "37654",
+          "name": "Rajarajeshwari nagara Gate",
+          "lon": 77.51832,
+          "lat": 12.93544,
+          "dist_m": 195.7,
+          "n_routes": 8
+        },
+        {
+          "stop_id": "35389",
+          "name": "Rajarajeshwari nagara Gate",
+          "lon": 77.51774,
+          "lat": 12.93631,
+          "dist_m": 213.1,
+          "n_routes": 12
+        }
+      ]
+    },
+    {
+      "stop_id": "RVR",
+      "name": "Rashtreeya Vidyalaya Road",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 5,
+      "nearest_bus_m": 161.8,
+      "n_routes": 33,
+      "n_covered_stops": 320,
+      "coverage_fraction": 0.2709,
+      "pop_catchment": 984342,
+      "pop_served": 268007,
+      "pop_unserved": 716335,
+      "pop_coverage_fraction": 0.2723,
+      "revenue_left": 32235054,
+      "feeders": [
+        {
+          "stop_id": "21448",
+          "name": "Jayanagara 40th Cross",
+          "lon": 77.58062,
+          "lat": 12.91991,
+          "dist_m": 161.8,
+          "n_routes": 7
+        },
+        {
+          "stop_id": "21449",
+          "name": "Jayanagara 40th Cross",
+          "lon": 77.58068,
+          "lat": 12.91989,
+          "dist_m": 165.6,
+          "n_routes": 8
+        },
+        {
+          "stop_id": "21637",
+          "name": "Jayanagara 8th Block",
+          "lon": 77.58028,
+          "lat": 12.92385,
+          "dist_m": 278.8,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "21444",
+          "name": "Jayanagara 38th Cross",
+          "lon": 77.58365,
+          "lat": 12.92146,
+          "dist_m": 367.3,
+          "n_routes": 17
+        },
+        {
+          "stop_id": "21445",
+          "name": "Jayanagara  38th Cross",
+          "lon": 77.58376,
+          "lat": 12.92101,
+          "dist_m": 380.6,
+          "n_routes": 16
+        }
+      ]
+    },
+    {
+      "stop_id": "VDSA",
+      "name": "Dr. B. R. Ambedkar Station, Vidhana Soudha",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 4,
+      "nearest_bus_m": 66.8,
+      "n_routes": 44,
+      "n_covered_stops": 574,
+      "coverage_fraction": 0.2608,
+      "pop_catchment": 1139603,
+      "pop_served": 276650,
+      "pop_unserved": 862954,
+      "pop_coverage_fraction": 0.2428,
+      "revenue_left": 38832913,
+      "feeders": [
+        {
+          "stop_id": "21258",
+          "name": "Vidhana Soudha Karnataka High Court",
+          "lon": 77.59135,
+          "lat": 12.97821,
+          "dist_m": 66.8,
+          "n_routes": 27
+        },
+        {
+          "stop_id": "21259",
+          "name": "Vidhana Soudha Karnataka High Court",
+          "lon": 77.59296,
+          "lat": 12.9802,
+          "dist_m": 215.8,
+          "n_routes": 16
+        },
+        {
+          "stop_id": "38026",
+          "name": "MS Building",
+          "lon": 77.58922,
+          "lat": 12.97677,
+          "dist_m": 341.6,
+          "n_routes": 8
+        },
+        {
+          "stop_id": "21525",
+          "name": "GPO",
+          "lon": 77.59405,
+          "lat": 12.98137,
+          "dist_m": 391.2,
+          "n_routes": 1
+        }
+      ]
+    },
+    {
+      "stop_id": "AGPP",
+      "name": "Attiguppe",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 7,
+      "nearest_bus_m": 221.1,
+      "n_routes": 22,
+      "n_covered_stops": 316,
+      "coverage_fraction": 0.2599,
+      "pop_catchment": 1180712,
+      "pop_served": 390008,
+      "pop_unserved": 790704,
+      "pop_coverage_fraction": 0.3303,
+      "revenue_left": 35581695,
+      "feeders": [
+        {
+          "stop_id": "31373",
+          "name": "Income Tax Layout Cross 1",
+          "lon": 77.5329,
+          "lat": 12.96001,
+          "dist_m": 221.1,
+          "n_routes": 13
+        },
+        {
+          "stop_id": "20854",
+          "name": "Income Tax Layout Cross",
+          "lon": 77.53271,
+          "lat": 12.96001,
+          "dist_m": 228.8,
+          "n_routes": 9
+        },
+        {
+          "stop_id": "34878",
+          "name": "Vijayanagara Garage",
+          "lon": 77.53437,
+          "lat": 12.96449,
+          "dist_m": 300.0,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "20852",
+          "name": "Income Tax Layout",
+          "lon": 77.5311,
+          "lat": 12.96009,
+          "dist_m": 335.1,
+          "n_routes": 12
+        },
+        {
+          "stop_id": "36351",
+          "name": "Subbanna Garden",
+          "lon": 77.53225,
+          "lat": 12.96464,
+          "dist_m": 336.6,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "34709",
+          "name": "Subbanna Garden",
+          "lon": 77.5322,
+          "lat": 12.96468,
+          "dist_m": 342.9,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "20853",
+          "name": "Income Tax Layout",
+          "lon": 77.53086,
+          "lat": 12.96012,
+          "dist_m": 354.6,
+          "n_routes": 8
+        }
+      ]
+    },
+    {
+      "stop_id": "MAGR",
+      "name": "Mahatma Gandhi Road",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 4,
+      "nearest_bus_m": 10.7,
+      "n_routes": 38,
+      "n_covered_stops": 608,
+      "coverage_fraction": 0.2562,
+      "pop_catchment": 933375,
+      "pop_served": 234901,
+      "pop_unserved": 698474,
+      "pop_coverage_fraction": 0.2517,
+      "revenue_left": 31431335,
+      "feeders": [
+        {
+          "stop_id": "24045",
+          "name": "MG Road Metro Station",
+          "lon": 77.60671,
+          "lat": 12.97547,
+          "dist_m": 10.7,
+          "n_routes": 9
+        },
+        {
+          "stop_id": "23821",
+          "name": "MG Road Metro Station",
+          "lon": 77.60644,
+          "lat": 12.97541,
+          "dist_m": 40.1,
+          "n_routes": 13
+        },
+        {
+          "stop_id": "22252",
+          "name": "Maniksha Parade Ground",
+          "lon": 77.60771,
+          "lat": 12.97746,
+          "dist_m": 236.2,
+          "n_routes": 9
+        },
+        {
+          "stop_id": "22253",
+          "name": "Maniksha Parade Ground",
+          "lon": 77.60747,
+          "lat": 12.97773,
+          "dist_m": 254.9,
+          "n_routes": 11
+        }
+      ]
+    },
+    {
+      "stop_id": "LBGH",
+      "name": "Lalbagh",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 7,
+      "nearest_bus_m": 58.1,
+      "n_routes": 15,
+      "n_covered_stops": 199,
+      "coverage_fraction": 0.2469,
+      "pop_catchment": 1306066,
+      "pop_served": 277675,
+      "pop_unserved": 1028391,
+      "pop_coverage_fraction": 0.2126,
+      "revenue_left": 46277581,
+      "feeders": [
+        {
+          "stop_id": "38814",
+          "name": "Lalbagh Metro Station",
+          "lon": 77.57999,
+          "lat": 12.94705,
+          "dist_m": 58.1,
+          "n_routes": 5
+        },
+        {
+          "stop_id": "22224",
+          "name": "Lalbagh West Gate (Lalbagh Metro Station)",
+          "lon": 77.58009,
+          "lat": 12.94758,
+          "dist_m": 116.9,
+          "n_routes": 6
+        },
+        {
+          "stop_id": "22434",
+          "name": "R V Teachers College",
+          "lon": 77.57999,
+          "lat": 12.94486,
+          "dist_m": 184.4,
+          "n_routes": 6
+        },
+        {
+          "stop_id": "38846",
+          "name": "Lalbagh West Gate",
+          "lon": 77.57966,
+          "lat": 12.94838,
+          "dist_m": 208.9,
+          "n_routes": 1
+        },
+        {
+          "stop_id": "20968",
+          "name": "Lalbagh West Gate",
+          "lon": 77.57918,
+          "lat": 12.94826,
+          "dist_m": 212.5,
+          "n_routes": 2
+        },
+        {
+          "stop_id": "22433",
+          "name": "R V Teachers College",
+          "lon": 77.58012,
+          "lat": 12.94447,
+          "dist_m": 227.8,
+          "n_routes": 6
+        },
+        {
+          "stop_id": "22225",
+          "name": "Lalbagh West Gate",
+          "lon": 77.57993,
+          "lat": 12.94963,
+          "dist_m": 343.7,
+          "n_routes": 6
+        }
+      ]
+    },
+    {
+      "stop_id": "DSH",
+      "name": "Dasarahalli",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 2,
+      "nearest_bus_m": 40.5,
+      "n_routes": 70,
+      "n_covered_stops": 755,
+      "coverage_fraction": 0.2467,
+      "pop_catchment": 303104,
+      "pop_served": 82714,
+      "pop_unserved": 220391,
+      "pop_coverage_fraction": 0.2729,
+      "revenue_left": 9917573,
+      "feeders": [
+        {
+          "stop_id": "21212",
+          "name": "T Dasarahalli",
+          "lon": 77.51288,
+          "lat": 13.04309,
+          "dist_m": 40.5,
+          "n_routes": 35
+        },
+        {
+          "stop_id": "21211",
+          "name": "T Dasarahalli",
+          "lon": 77.51276,
+          "lat": 13.04283,
+          "dist_m": 52.9,
+          "n_routes": 35
+        }
+      ]
+    },
+    {
+      "stop_id": "BRCS",
+      "name": "Krantivira Sangolli Rayanna Railway Station",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 5,
+      "nearest_bus_m": 64.4,
+      "n_routes": 45,
+      "n_covered_stops": 457,
+      "coverage_fraction": 0.2414,
+      "pop_catchment": 1498929,
+      "pop_served": 350991,
+      "pop_unserved": 1147938,
+      "pop_coverage_fraction": 0.2342,
+      "revenue_left": 51657200,
+      "feeders": [
+        {
+          "stop_id": "21534",
+          "name": "Hunasemara",
+          "lon": 77.56521,
+          "lat": 12.97532,
+          "dist_m": 64.4,
+          "n_routes": 7
+        },
+        {
+          "stop_id": "21535",
+          "name": "Hunasemara",
+          "lon": 77.56504,
+          "lat": 12.97528,
+          "dist_m": 75.7,
+          "n_routes": 6
+        },
+        {
+          "stop_id": "20577",
+          "name": "1st Cross Magadi Road",
+          "lon": 77.563,
+          "lat": 12.97569,
+          "dist_m": 259.2,
+          "n_routes": 19
+        },
+        {
+          "stop_id": "20578",
+          "name": "1st Cross Magadi Road",
+          "lon": 77.5628,
+          "lat": 12.97569,
+          "dist_m": 280.8,
+          "n_routes": 25
+        },
+        {
+          "stop_id": "38112",
+          "name": "Binny Mill ETA Garden",
+          "lon": 77.56639,
+          "lat": 12.97325,
+          "dist_m": 310.8,
+          "n_routes": 0
+        }
+      ]
+    },
+    {
+      "stop_id": "IDN",
+      "name": "Indiranagar",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 8,
+      "nearest_bus_m": 10.7,
+      "n_routes": 37,
+      "n_covered_stops": 334,
+      "coverage_fraction": 0.2374,
+      "pop_catchment": 709114,
+      "pop_served": 181303,
+      "pop_unserved": 527810,
+      "pop_coverage_fraction": 0.2557,
+      "revenue_left": 23751456,
+      "feeders": [
+        {
+          "stop_id": "26134",
+          "name": "Indiranagara Metro Station",
+          "lon": 77.6386,
+          "lat": 12.97826,
+          "dist_m": 10.7,
+          "n_routes": 3
+        },
+        {
+          "stop_id": "33037",
+          "name": "Indiranagara Metro Station",
+          "lon": 77.63848,
+          "lat": 12.97837,
+          "dist_m": 20.4,
+          "n_routes": 4
+        },
+        {
+          "stop_id": "22388",
+          "name": "Indiranagara Police Station/KFC",
+          "lon": 77.64065,
+          "lat": 12.97833,
+          "dist_m": 215.6,
+          "n_routes": 6
+        },
+        {
+          "stop_id": "21921",
+          "name": "Double Road Indiranagara",
+          "lon": 77.6366,
+          "lat": 12.97832,
+          "dist_m": 224.1,
+          "n_routes": 5
+        },
+        {
+          "stop_id": "22389",
+          "name": "Indiranagara Police Station/KFC",
+          "lon": 77.6408,
+          "lat": 12.97857,
+          "dist_m": 233.4,
+          "n_routes": 13
+        },
+        {
+          "stop_id": "21922",
+          "name": "Double Road Indiranagara",
+          "lon": 77.63645,
+          "lat": 12.97821,
+          "dist_m": 240.7,
+          "n_routes": 4
+        },
+        {
+          "stop_id": "22387",
+          "name": "Indiranagara Police Station/KFC",
+          "lon": 77.64094,
+          "lat": 12.9781,
+          "dist_m": 248.4,
+          "n_routes": 12
+        },
+        {
+          "stop_id": "22390",
+          "name": "Indiranagara Police Station/KFC",
+          "lon": 77.64125,
+          "lat": 12.97844,
+          "dist_m": 281.0,
+          "n_routes": 6
+        }
+      ]
+    },
+    {
+      "stop_id": "BGUC",
+      "name": "Jnanabharathi",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 3,
+      "nearest_bus_m": 31.8,
+      "n_routes": 28,
+      "n_covered_stops": 322,
+      "coverage_fraction": 0.2276,
+      "pop_catchment": 313734,
+      "pop_served": 60042,
+      "pop_unserved": 253692,
+      "pop_coverage_fraction": 0.1914,
+      "revenue_left": 11416141,
+      "feeders": [
+        {
+          "stop_id": "20648",
+          "name": "Bengaluru University Gate",
+          "lon": 77.51269,
+          "lat": 12.93537,
+          "dist_m": 31.8,
+          "n_routes": 8
+        },
+        {
+          "stop_id": "20647",
+          "name": "Bengaluru University Gate",
+          "lon": 77.51282,
+          "lat": 12.93582,
+          "dist_m": 61.9,
+          "n_routes": 6
+        },
+        {
+          "stop_id": "20649",
+          "name": "Bengaluru University Gate",
+          "lon": 77.51332,
+          "lat": 12.93573,
+          "dist_m": 104.5,
+          "n_routes": 14
+        }
+      ]
+    },
+    {
+      "stop_id": "HLRU",
+      "name": "Halasuru",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 4,
+      "nearest_bus_m": 187.6,
+      "n_routes": 22,
+      "n_covered_stops": 317,
+      "coverage_fraction": 0.225,
+      "pop_catchment": 791038,
+      "pop_served": 180435,
+      "pop_unserved": 610604,
+      "pop_coverage_fraction": 0.2281,
+      "revenue_left": 27477168,
+      "feeders": [
+        {
+          "stop_id": "20807",
+          "name": "Halasuru Police Station",
+          "lon": 77.62564,
+          "lat": 12.97515,
+          "dist_m": 187.6,
+          "n_routes": 8
+        },
+        {
+          "stop_id": "22006",
+          "name": "Halasuru Police Station",
+          "lon": 77.62544,
+          "lat": 12.97516,
+          "dist_m": 200.7,
+          "n_routes": 8
+        },
+        {
+          "stop_id": "20806",
+          "name": "Halasuru",
+          "lon": 77.6283,
+          "lat": 12.97793,
+          "dist_m": 236.2,
+          "n_routes": 12
+        },
+        {
+          "stop_id": "22005",
+          "name": "Halasuru",
+          "lon": 77.62922,
+          "lat": 12.97849,
+          "dist_m": 352.5,
+          "n_routes": 7
+        }
+      ]
+    },
+    {
+      "stop_id": "NYHM",
+      "name": "Nayandahalli",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 4,
+      "nearest_bus_m": 139.8,
+      "n_routes": 47,
+      "n_covered_stops": 586,
+      "coverage_fraction": 0.2246,
+      "pop_catchment": 690045,
+      "pop_served": 134990,
+      "pop_unserved": 555055,
+      "pop_coverage_fraction": 0.1956,
+      "revenue_left": 24977492,
+      "feeders": [
+        {
+          "stop_id": "21052",
+          "name": "Nayandahalli",
+          "lon": 77.52589,
+          "lat": 12.94268,
+          "dist_m": 139.8,
+          "n_routes": 22
+        },
+        {
+          "stop_id": "21053",
+          "name": "Nayandahalli",
+          "lon": 77.52576,
+          "lat": 12.94288,
+          "dist_m": 151.0,
+          "n_routes": 25
+        },
+        {
+          "stop_id": "20690",
+          "name": "BWSSB Quarters Nayandahalli",
+          "lon": 77.52412,
+          "lat": 12.94013,
+          "dist_m": 202.0,
+          "n_routes": 22
+        },
+        {
+          "stop_id": "20691",
+          "name": "BWSSB Quarters Nayandahalli",
+          "lon": 77.5236,
+          "lat": 12.93987,
+          "dist_m": 258.5,
+          "n_routes": 25
+        }
+      ]
+    },
+    {
+      "stop_id": "SECE",
+      "name": "South End Circle",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 8,
+      "nearest_bus_m": 128.1,
+      "n_routes": 34,
+      "n_covered_stops": 313,
+      "coverage_fraction": 0.2202,
+      "pop_catchment": 1248071,
+      "pop_served": 258499,
+      "pop_unserved": 989572,
+      "pop_coverage_fraction": 0.2071,
+      "revenue_left": 44530741,
+      "feeders": [
+        {
+          "stop_id": "22505",
+          "name": "South End Circle",
+          "lon": 77.57965,
+          "lat": 12.93717,
+          "dist_m": 128.1,
+          "n_routes": 10
+        },
+        {
+          "stop_id": "24269",
+          "name": "Vijaya College",
+          "lon": 77.58002,
+          "lat": 12.94001,
+          "dist_m": 194.1,
+          "n_routes": 5
+        },
+        {
+          "stop_id": "34523",
+          "name": "Shanthi Talkies",
+          "lon": 77.57899,
+          "lat": 12.93669,
+          "dist_m": 208.5,
+          "n_routes": 2
+        },
+        {
+          "stop_id": "23483",
+          "name": "South End Circle",
+          "lon": 77.58128,
+          "lat": 12.9368,
+          "dist_m": 209.0,
+          "n_routes": 1
+        },
+        {
+          "stop_id": "22504",
+          "name": "South End Circle",
+          "lon": 77.58016,
+          "lat": 12.93625,
+          "dist_m": 222.5,
+          "n_routes": 15
+        },
+        {
+          "stop_id": "27289",
+          "name": "Vijaya College",
+          "lon": 77.58013,
+          "lat": 12.94067,
+          "dist_m": 267.2,
+          "n_routes": 5
+        },
+        {
+          "stop_id": "28268",
+          "name": "Shanthi Talkies",
+          "lon": 77.57724,
+          "lat": 12.93686,
+          "dist_m": 342.5,
+          "n_routes": 1
+        },
+        {
+          "stop_id": "24044",
+          "name": "Madhavan Park",
+          "lon": 77.58308,
+          "lat": 12.93675,
+          "dist_m": 368.4,
+          "n_routes": 2
+        }
+      ]
+    },
+    {
+      "stop_id": "YPM",
+      "name": "Yeshwantpur",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 3,
+      "nearest_bus_m": 89.2,
+      "n_routes": 64,
+      "n_covered_stops": 637,
+      "coverage_fraction": 0.2003,
+      "pop_catchment": 863760,
+      "pop_served": 175678,
+      "pop_unserved": 688083,
+      "pop_coverage_fraction": 0.2034,
+      "revenue_left": 30963720,
+      "feeders": [
+        {
+          "stop_id": "27453",
+          "name": "Yeshawanthapura New Railway Station",
+          "lon": 77.55066,
+          "lat": 13.02349,
+          "dist_m": 89.2,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "21131",
+          "name": "RMC Yard (Yashawanthapura New Railway Station)",
+          "lon": 77.54877,
+          "lat": 13.02366,
+          "dist_m": 127.0,
+          "n_routes": 35
+        },
+        {
+          "stop_id": "21132",
+          "name": "RMC Yard (Yeshawanthapura New Railway Station)",
+          "lon": 77.54776,
+          "lat": 13.02462,
+          "dist_m": 273.6,
+          "n_routes": 29
+        }
+      ]
+    },
+    {
+      "stop_id": "MLSD",
+      "name": "Kengeri Bus Terminal",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 4,
+      "nearest_bus_m": 128.9,
+      "n_routes": 63,
+      "n_covered_stops": 880,
+      "coverage_fraction": 0.1946,
+      "pop_catchment": 71944,
+      "pop_served": 22271,
+      "pop_unserved": 49673,
+      "pop_coverage_fraction": 0.3096,
+      "revenue_left": 2235301,
+      "feeders": [
+        {
+          "stop_id": "20925",
+          "name": "Kengeri Bus Station",
+          "lon": 77.4871,
+          "lat": 12.91379,
+          "dist_m": 128.9,
+          "n_routes": 49
+        },
+        {
+          "stop_id": "20926",
+          "name": "Kengeri Bus Station",
+          "lon": 77.48645,
+          "lat": 12.91406,
+          "dist_m": 167.6,
+          "n_routes": 17
+        },
+        {
+          "stop_id": "35360",
+          "name": "Kengeri",
+          "lon": 77.48543,
+          "lat": 12.91244,
+          "dist_m": 362.3,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "36259",
+          "name": "Kengeri",
+          "lon": 77.4854,
+          "lat": 12.91237,
+          "dist_m": 370.0,
+          "n_routes": 1
+        }
+      ]
+    },
+    {
+      "stop_id": "JTPM",
+      "name": "Benniganahalli",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 2,
+      "nearest_bus_m": 13.5,
+      "n_routes": 130,
+      "n_covered_stops": 837,
+      "coverage_fraction": 0.1938,
+      "pop_catchment": 383888,
+      "pop_served": 85739,
+      "pop_unserved": 298148,
+      "pop_coverage_fraction": 0.2233,
+      "revenue_left": 13416682,
+      "feeders": [
+        {
+          "stop_id": "21228",
+          "name": "Tin Factory",
+          "lon": 77.66857,
+          "lat": 12.99645,
+          "dist_m": 13.5,
+          "n_routes": 71
+        },
+        {
+          "stop_id": "21229",
+          "name": "Tin Factory",
+          "lon": 77.66946,
+          "lat": 12.99709,
+          "dist_m": 125.3,
+          "n_routes": 68
+        }
+      ]
+    },
+    {
+      "stop_id": "YPI",
+      "name": "Goraguntepalya",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 3,
+      "nearest_bus_m": 37.5,
+      "n_routes": 100,
+      "n_covered_stops": 778,
+      "coverage_fraction": 0.1885,
+      "pop_catchment": 715081,
+      "pop_served": 129314,
+      "pop_unserved": 585768,
+      "pop_coverage_fraction": 0.1808,
+      "revenue_left": 26359538,
+      "feeders": [
+        {
+          "stop_id": "20789",
+          "name": "Goraguntepalya",
+          "lon": 77.54123,
+          "lat": 13.02835,
+          "dist_m": 37.5,
+          "n_routes": 29
+        },
+        {
+          "stop_id": "21517",
+          "name": "Goraguntepalya",
+          "lon": 77.54012,
+          "lat": 13.02951,
+          "dist_m": 147.9,
+          "n_routes": 20
+        },
+        {
+          "stop_id": "20790",
+          "name": "Goraguntepalya",
+          "lon": 77.5395,
+          "lat": 13.02895,
+          "dist_m": 162.3,
+          "n_routes": 51
+        }
+      ]
+    },
+    {
+      "stop_id": "KRAM",
+      "name": "Krishnarajapura",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 5,
+      "nearest_bus_m": 62.6,
+      "n_routes": 125,
+      "n_covered_stops": 778,
+      "coverage_fraction": 0.1878,
+      "pop_catchment": 290785,
+      "pop_served": 59983,
+      "pop_unserved": 230802,
+      "pop_coverage_fraction": 0.2063,
+      "revenue_left": 10386072,
+      "feeders": [
+        {
+          "stop_id": "38391",
+          "name": "KR Pura Metro Station",
+          "lon": 77.67713,
+          "lat": 13.0001,
+          "dist_m": 62.6,
+          "n_routes": 1
+        },
+        {
+          "stop_id": "37688",
+          "name": "KR Pura Metro Station",
+          "lon": 77.67664,
+          "lat": 13.00014,
+          "dist_m": 114.9,
+          "n_routes": 4
+        },
+        {
+          "stop_id": "21113",
+          "name": "KR Pura Railway Station",
+          "lon": 77.67654,
+          "lat": 12.99998,
+          "dist_m": 123.0,
+          "n_routes": 59
+        },
+        {
+          "stop_id": "35933",
+          "name": "KR Pura Railway Station",
+          "lon": 77.67814,
+          "lat": 13.00133,
+          "dist_m": 166.1,
+          "n_routes": 13
+        },
+        {
+          "stop_id": "21112",
+          "name": "KR Pura Railway Station",
+          "lon": 77.67597,
+          "lat": 13.00022,
+          "dist_m": 187.9,
+          "n_routes": 53
+        }
+      ]
+    },
+    {
+      "stop_id": "APRC",
+      "name": "Konanakunte Cross",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 9,
+      "nearest_bus_m": 13.2,
+      "n_routes": 29,
+      "n_covered_stops": 381,
+      "coverage_fraction": 0.1809,
+      "pop_catchment": 352022,
+      "pop_served": 57098,
+      "pop_unserved": 294924,
+      "pop_coverage_fraction": 0.1622,
+      "revenue_left": 13271564,
+      "feeders": [
+        {
+          "stop_id": "38359",
+          "name": "Konanakunte Cross  Metro Station",
+          "lon": 77.56257,
+          "lat": 12.8889,
+          "dist_m": 13.2,
+          "n_routes": 3
+        },
+        {
+          "stop_id": "38358",
+          "name": "Konanakunte Cross  Metro Station",
+          "lon": 77.56306,
+          "lat": 12.88907,
+          "dist_m": 43.9,
+          "n_routes": 4
+        },
+        {
+          "stop_id": "35374",
+          "name": "Konanakunte Cross",
+          "lon": 77.5635,
+          "lat": 12.88949,
+          "dist_m": 107.1,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "35993",
+          "name": "Konanakunte Cross",
+          "lon": 77.56365,
+          "lat": 12.88952,
+          "dist_m": 122.8,
+          "n_routes": 3
+        },
+        {
+          "stop_id": "22190",
+          "name": "Konanakunte Cross",
+          "lon": 77.56431,
+          "lat": 12.89025,
+          "dist_m": 227.8,
+          "n_routes": 14
+        },
+        {
+          "stop_id": "33557",
+          "name": "Konanakunte Cross",
+          "lon": 77.56414,
+          "lat": 12.89044,
+          "dist_m": 228.2,
+          "n_routes": 2
+        },
+        {
+          "stop_id": "22191",
+          "name": "Konanakunte Cross",
+          "lon": 77.56442,
+          "lat": 12.89058,
+          "dist_m": 260.8,
+          "n_routes": 10
+        },
+        {
+          "stop_id": "27823",
+          "name": "Ragi Machine",
+          "lon": 77.56035,
+          "lat": 12.8916,
+          "dist_m": 385.2,
+          "n_routes": 2
+        },
+        {
+          "stop_id": "35345",
+          "name": "Ragi Machine",
+          "lon": 77.56026,
+          "lat": 12.89166,
+          "dist_m": 396.7,
+          "n_routes": 4
+        }
+      ]
+    },
+    {
+      "stop_id": "NLC",
+      "name": "National College",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 7,
+      "nearest_bus_m": 121.9,
+      "n_routes": 31,
+      "n_covered_stops": 277,
+      "coverage_fraction": 0.1735,
+      "pop_catchment": 1355592,
+      "pop_served": 197033,
+      "pop_unserved": 1158559,
+      "pop_coverage_fraction": 0.1453,
+      "revenue_left": 52135158,
+      "feeders": [
+        {
+          "stop_id": "22346",
+          "name": "National College",
+          "lon": 77.57379,
+          "lat": 12.94942,
+          "dist_m": 121.9,
+          "n_routes": 15
+        },
+        {
+          "stop_id": "22348",
+          "name": "National College",
+          "lon": 77.57367,
+          "lat": 12.94926,
+          "dist_m": 139.0,
+          "n_routes": 5
+        },
+        {
+          "stop_id": "22347",
+          "name": "National College",
+          "lon": 77.57567,
+          "lat": 12.94865,
+          "dist_m": 298.9,
+          "n_routes": 1
+        },
+        {
+          "stop_id": "22240",
+          "name": "Mahila Seva Samaja",
+          "lon": 77.5736,
+          "lat": 12.95334,
+          "dist_m": 312.7,
+          "n_routes": 5
+        },
+        {
+          "stop_id": "21248",
+          "name": "Vasavi Vidya Mandira",
+          "lon": 77.57564,
+          "lat": 12.94832,
+          "dist_m": 323.1,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "22239",
+          "name": "Mahila Seva Samaja",
+          "lon": 77.57379,
+          "lat": 12.95362,
+          "dist_m": 343.8,
+          "n_routes": 15
+        },
+        {
+          "stop_id": "22445",
+          "name": "Sajjan Rao Circle",
+          "lon": 77.57653,
+          "lat": 12.95262,
+          "dist_m": 387.3,
+          "n_routes": 10
+        }
+      ]
+    },
+    {
+      "stop_id": "JPN",
+      "name": "Jaya Prakash Nagar",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 10,
+      "nearest_bus_m": 54.7,
+      "n_routes": 25,
+      "n_covered_stops": 318,
+      "coverage_fraction": 0.1718,
+      "pop_catchment": 716486,
+      "pop_served": 143342,
+      "pop_unserved": 573144,
+      "pop_coverage_fraction": 0.2001,
+      "revenue_left": 25791478,
+      "feeders": [
+        {
+          "stop_id": "38795",
+          "name": "JP Nagara Metro Station",
+          "lon": 77.57299,
+          "lat": 12.90795,
+          "dist_m": 54.7,
+          "n_routes": 8
+        },
+        {
+          "stop_id": "35926",
+          "name": "JP Nagara Metro Station",
+          "lon": 77.57312,
+          "lat": 12.908,
+          "dist_m": 58.1,
+          "n_routes": 13
+        },
+        {
+          "stop_id": "28162",
+          "name": "Sarakki Signal",
+          "lon": 77.57334,
+          "lat": 12.9067,
+          "dist_m": 88.8,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "28159",
+          "name": "Sarakki Junction",
+          "lon": 77.57306,
+          "lat": 12.90646,
+          "dist_m": 112.6,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "34472",
+          "name": "Sarakki Signal",
+          "lon": 77.57367,
+          "lat": 12.90657,
+          "dist_m": 116.1,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "34473",
+          "name": "Sarakki Signal",
+          "lon": 77.57373,
+          "lat": 12.90639,
+          "dist_m": 136.6,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "22460",
+          "name": "Sarakki",
+          "lon": 77.57288,
+          "lat": 12.90966,
+          "dist_m": 243.4,
+          "n_routes": 10
+        },
+        {
+          "stop_id": "22459",
+          "name": "Sarakki",
+          "lon": 77.57299,
+          "lat": 12.9097,
+          "dist_m": 246.8,
+          "n_routes": 14
+        },
+        {
+          "stop_id": "26111",
+          "name": "Ilyas Nagara",
+          "lon": 77.5704,
+          "lat": 12.90838,
+          "dist_m": 312.9,
+          "n_routes": 1
+        },
+        {
+          "stop_id": "26110",
+          "name": "Ilyas Nagara Junction",
+          "lon": 77.57039,
+          "lat": 12.90856,
+          "dist_m": 320.9,
+          "n_routes": 0
+        }
+      ]
+    },
+    {
+      "stop_id": "PATG",
+      "name": "Pattanagere",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 4,
+      "nearest_bus_m": 146.2,
+      "n_routes": 17,
+      "n_covered_stops": 284,
+      "coverage_fraction": 0.1693,
+      "pop_catchment": 113511,
+      "pop_served": 23662,
+      "pop_unserved": 89849,
+      "pop_coverage_fraction": 0.2085,
+      "revenue_left": 4043214,
+      "feeders": [
+        {
+          "stop_id": "21146",
+          "name": "RV College",
+          "lon": 77.49918,
+          "lat": 12.92529,
+          "dist_m": 146.2,
+          "n_routes": 8
+        },
+        {
+          "stop_id": "35391",
+          "name": "RV College",
+          "lon": 77.49936,
+          "lat": 12.92521,
+          "dist_m": 152.7,
+          "n_routes": 8
+        },
+        {
+          "stop_id": "20764",
+          "name": "Dubasipalya Cross",
+          "lon": 77.49603,
+          "lat": 12.92273,
+          "dist_m": 302.9,
+          "n_routes": 9
+        },
+        {
+          "stop_id": "20765",
+          "name": "Dubasipalya Cross",
+          "lon": 77.49583,
+          "lat": 12.9229,
+          "dist_m": 311.7,
+          "n_routes": 8
+        }
+      ]
+    },
+    {
+      "stop_id": "CKPE",
+      "name": "Chickpete",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 4,
+      "nearest_bus_m": 244.7,
+      "n_routes": 16,
+      "n_covered_stops": 213,
+      "coverage_fraction": 0.1685,
+      "pop_catchment": 1434588,
+      "pop_served": 216191,
+      "pop_unserved": 1218397,
+      "pop_coverage_fraction": 0.1507,
+      "revenue_left": 54827860,
+      "feeders": [
+        {
+          "stop_id": "31256",
+          "name": "KR Market Flyover",
+          "lon": 77.57508,
+          "lat": 12.96474,
+          "dist_m": 244.7,
+          "n_routes": 5
+        },
+        {
+          "stop_id": "36229",
+          "name": "KR Market Flyover",
+          "lon": 77.57512,
+          "lat": 12.96469,
+          "dist_m": 251.1,
+          "n_routes": 1
+        },
+        {
+          "stop_id": "20943",
+          "name": "KR Market",
+          "lon": 77.57668,
+          "lat": 12.96451,
+          "dist_m": 349.4,
+          "n_routes": 4
+        },
+        {
+          "stop_id": "20942",
+          "name": "KR Market",
+          "lon": 77.5768,
+          "lat": 12.96406,
+          "dist_m": 396.2,
+          "n_routes": 6
+        }
+      ]
+    },
+    {
+      "stop_id": "TTY",
+      "name": "Trinity",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 6,
+      "nearest_bus_m": 16.2,
+      "n_routes": 13,
+      "n_covered_stops": 189,
+      "coverage_fraction": 0.1596,
+      "pop_catchment": 830373,
+      "pop_served": 111191,
+      "pop_unserved": 719182,
+      "pop_coverage_fraction": 0.1339,
+      "revenue_left": 32363192,
+      "feeders": [
+        {
+          "stop_id": "38187",
+          "name": "Trinity Metro Station",
+          "lon": 77.61689,
+          "lat": 12.97295,
+          "dist_m": 16.2,
+          "n_routes": 2
+        },
+        {
+          "stop_id": "21235",
+          "name": "Lido Talkies",
+          "lon": 77.62005,
+          "lat": 12.97346,
+          "dist_m": 332.5,
+          "n_routes": 2
+        },
+        {
+          "stop_id": "21932",
+          "name": "Electric B Station",
+          "lon": 77.61394,
+          "lat": 12.97405,
+          "dist_m": 353.2,
+          "n_routes": 5
+        },
+        {
+          "stop_id": "22254",
+          "name": "Manipal Centre",
+          "lon": 77.61436,
+          "lat": 12.97493,
+          "dist_m": 357.8,
+          "n_routes": 2
+        },
+        {
+          "stop_id": "22756",
+          "name": "Trinity Circle",
+          "lon": 77.6197,
+          "lat": 12.97093,
+          "dist_m": 371.9,
+          "n_routes": 4
+        },
+        {
+          "stop_id": "22693",
+          "name": "Trinity Circle",
+          "lon": 77.61959,
+          "lat": 12.97071,
+          "dist_m": 378.6,
+          "n_routes": 6
+        }
+      ]
+    },
+    {
+      "stop_id": "JYN",
+      "name": "Jayanagar",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 7,
+      "nearest_bus_m": 14.5,
+      "n_routes": 23,
+      "n_covered_stops": 242,
+      "coverage_fraction": 0.1561,
+      "pop_catchment": 1118701,
+      "pop_served": 156115,
+      "pop_unserved": 962587,
+      "pop_coverage_fraction": 0.1396,
+      "revenue_left": 43316394,
+      "feeders": [
+        {
+          "stop_id": "23449",
+          "name": "Jayanagara Metro Station Depature",
+          "lon": 77.58021,
+          "lat": 12.92939,
+          "dist_m": 14.5,
+          "n_routes": 2
+        },
+        {
+          "stop_id": "23463",
+          "name": "Jayanagara Metro Station Arrival",
+          "lon": 77.58021,
+          "lat": 12.92969,
+          "dist_m": 21.3,
+          "n_routes": 3
+        },
+        {
+          "stop_id": "21636",
+          "name": "Jayanagar 6th block",
+          "lon": 77.57878,
+          "lat": 12.9309,
+          "dist_m": 214.2,
+          "n_routes": 2
+        },
+        {
+          "stop_id": "37081",
+          "name": "Jayanagar 6 block",
+          "lon": 77.57816,
+          "lat": 12.93069,
+          "dist_m": 252.7,
+          "n_routes": 1
+        },
+        {
+          "stop_id": "37085",
+          "name": "Jayanagar 6th block",
+          "lon": 77.57812,
+          "lat": 12.93066,
+          "dist_m": 254.7,
+          "n_routes": 1
+        },
+        {
+          "stop_id": "21635",
+          "name": "Jayanagar 6th block",
+          "lon": 77.57775,
+          "lat": 12.93081,
+          "dist_m": 297.8,
+          "n_routes": 2
+        },
+        {
+          "stop_id": "22341",
+          "name": "Nanda Talkies",
+          "lon": 77.58022,
+          "lat": 12.93222,
+          "dist_m": 300.4,
+          "n_routes": 15
+        }
+      ]
+    },
+    {
+      "stop_id": "SVRD",
+      "name": "Swami Vivekananda Road",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 7,
+      "nearest_bus_m": 32.7,
+      "n_routes": 28,
+      "n_covered_stops": 288,
+      "coverage_fraction": 0.1516,
+      "pop_catchment": 670467,
+      "pop_served": 100936,
+      "pop_unserved": 569530,
+      "pop_coverage_fraction": 0.1505,
+      "revenue_left": 25628862,
+      "feeders": [
+        {
+          "stop_id": "22527",
+          "name": "Swamy Vivekananda Metro Station/Isolation Hospital",
+          "lon": 77.6452,
+          "lat": 12.9859,
+          "dist_m": 32.7,
+          "n_routes": 12
+        },
+        {
+          "stop_id": "22525",
+          "name": "Swamy Vivekananda Metro Station",
+          "lon": 77.64547,
+          "lat": 12.98583,
+          "dist_m": 62.9,
+          "n_routes": 3
+        },
+        {
+          "stop_id": "20862",
+          "name": "Swamy Vivekananda Metro Station/Isolation Hospital",
+          "lon": 77.6434,
+          "lat": 12.98507,
+          "dist_m": 188.7,
+          "n_routes": 9
+        },
+        {
+          "stop_id": "21726",
+          "name": "Bayyappanahalli Cross",
+          "lon": 77.64255,
+          "lat": 12.98559,
+          "dist_m": 257.9,
+          "n_routes": 1
+        },
+        {
+          "stop_id": "21725",
+          "name": "Bayyappanahalli Cross",
+          "lon": 77.64246,
+          "lat": 12.98525,
+          "dist_m": 275.4,
+          "n_routes": 3
+        },
+        {
+          "stop_id": "23421",
+          "name": "Suranjan Das Road/NGEF",
+          "lon": 77.64797,
+          "lat": 12.98648,
+          "dist_m": 338.8,
+          "n_routes": 4
+        },
+        {
+          "stop_id": "26771",
+          "name": "Suranjan Das Road/NGEF",
+          "lon": 77.6481,
+          "lat": 12.98643,
+          "dist_m": 351.8,
+          "n_routes": 3
+        }
+      ]
+    },
+    {
+      "stop_id": "PUTH",
+      "name": "Yelachenahalli",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 7,
+      "nearest_bus_m": 4.9,
+      "n_routes": 23,
+      "n_covered_stops": 246,
+      "coverage_fraction": 0.1499,
+      "pop_catchment": 476492,
+      "pop_served": 82526,
+      "pop_unserved": 393965,
+      "pop_coverage_fraction": 0.1732,
+      "revenue_left": 17728447,
+      "feeders": [
+        {
+          "stop_id": "22818",
+          "name": "Yalachenahalli Metro Station",
+          "lon": 77.5701,
+          "lat": 12.89609,
+          "dist_m": 4.9,
+          "n_routes": 9
+        },
+        {
+          "stop_id": "22817",
+          "name": "Yalachenahalli Metro Station",
+          "lon": 77.57029,
+          "lat": 12.89609,
+          "dist_m": 19.0,
+          "n_routes": 12
+        },
+        {
+          "stop_id": "22639",
+          "name": "Yalachenahalli",
+          "lon": 77.57145,
+          "lat": 12.89768,
+          "dist_m": 231.1,
+          "n_routes": 10
+        },
+        {
+          "stop_id": "22638",
+          "name": "Yalachenahalli",
+          "lon": 77.57167,
+          "lat": 12.89764,
+          "dist_m": 243.5,
+          "n_routes": 13
+        },
+        {
+          "stop_id": "32624",
+          "name": "Ganapathipura",
+          "lon": 77.57192,
+          "lat": 12.89338,
+          "dist_m": 354.3,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "25279",
+          "name": "Ganapathipura",
+          "lon": 77.57188,
+          "lat": 12.89327,
+          "dist_m": 362.2,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "22284",
+          "name": "Metro",
+          "lon": 77.56772,
+          "lat": 12.89336,
+          "dist_m": 395.7,
+          "n_routes": 13
+        }
+      ]
+    },
+    {
+      "stop_id": "PYID",
+      "name": "Peenya Industry",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 2,
+      "nearest_bus_m": 48.8,
+      "n_routes": 59,
+      "n_covered_stops": 566,
+      "coverage_fraction": 0.1428,
+      "pop_catchment": 517926,
+      "pop_served": 63396,
+      "pop_unserved": 454530,
+      "pop_coverage_fraction": 0.1224,
+      "revenue_left": 20453863,
+      "feeders": [
+        {
+          "stop_id": "21083",
+          "name": "Peenya Industry Metro Station",
+          "lon": 77.52579,
+          "lat": 13.03599,
+          "dist_m": 48.8,
+          "n_routes": 27
+        },
+        {
+          "stop_id": "21082",
+          "name": "Peenya Industry Metro Station",
+          "lon": 77.52613,
+          "lat": 13.03556,
+          "dist_m": 108.9,
+          "n_routes": 32
+        }
+      ]
+    },
+    {
+      "stop_id": "PEYA",
+      "name": "Peenya",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 6,
+      "nearest_bus_m": 20.0,
+      "n_routes": 59,
+      "n_covered_stops": 566,
+      "coverage_fraction": 0.1427,
+      "pop_catchment": 608668,
+      "pop_served": 76609,
+      "pop_unserved": 532058,
+      "pop_coverage_fraction": 0.1259,
+      "revenue_left": 23942629,
+      "feeders": [
+        {
+          "stop_id": "38078",
+          "name": "Peenya Metro Station",
+          "lon": 77.53336,
+          "lat": 13.03293,
+          "dist_m": 20.0,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "38803",
+          "name": "Peenya Metro Station",
+          "lon": 77.53297,
+          "lat": 13.03299,
+          "dist_m": 25.2,
+          "n_routes": 27
+        },
+        {
+          "stop_id": "32373",
+          "name": "CMTI",
+          "lon": 77.53395,
+          "lat": 13.03293,
+          "dist_m": 82.0,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "27701",
+          "name": "Platinum City Apartment SRS",
+          "lon": 77.53337,
+          "lat": 13.03492,
+          "dist_m": 211.2,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "20724",
+          "name": "CMTI",
+          "lon": 77.53561,
+          "lat": 13.03143,
+          "dist_m": 315.2,
+          "n_routes": 27
+        },
+        {
+          "stop_id": "21189",
+          "name": "SRS Peenya",
+          "lon": 77.53032,
+          "lat": 13.03428,
+          "dist_m": 342.3,
+          "n_routes": 32
+        }
+      ]
+    },
+    {
+      "stop_id": "BYPH",
+      "name": "Baiyappanahalli",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 6,
+      "nearest_bus_m": 103.1,
+      "n_routes": 20,
+      "n_covered_stops": 239,
+      "coverage_fraction": 0.1417,
+      "pop_catchment": 591693,
+      "pop_served": 84254,
+      "pop_unserved": 507439,
+      "pop_coverage_fraction": 0.1424,
+      "revenue_left": 22834769,
+      "feeders": [
+        {
+          "stop_id": "36295",
+          "name": "Bayyappanahalli Metro Station  Back Gate",
+          "lon": 77.65212,
+          "lat": 12.99166,
+          "dist_m": 103.1,
+          "n_routes": 1
+        },
+        {
+          "stop_id": "33592",
+          "name": "Krishnayyana Palya NGEF",
+          "lon": 77.65184,
+          "lat": 12.99182,
+          "dist_m": 130.3,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "31277",
+          "name": "Krishnayyana Palya NGEF",
+          "lon": 77.65161,
+          "lat": 12.99191,
+          "dist_m": 151.2,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "38698",
+          "name": "Krishnayyana Palya NGEF",
+          "lon": 77.65163,
+          "lat": 12.99212,
+          "dist_m": 170.2,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "20635",
+          "name": "Bayyappanahalli Metro Station",
+          "lon": 77.65404,
+          "lat": 12.98967,
+          "dist_m": 218.6,
+          "n_routes": 8
+        },
+        {
+          "stop_id": "20634",
+          "name": "Bayyappanahalli Metro Station",
+          "lon": 77.65454,
+          "lat": 12.99001,
+          "dist_m": 250.8,
+          "n_routes": 11
+        }
+      ]
+    },
+    {
+      "stop_id": "ITPL",
+      "name": "Pattandur Agrahara",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 4,
+      "nearest_bus_m": 52.2,
+      "n_routes": 46,
+      "n_covered_stops": 435,
+      "coverage_fraction": 0.131,
+      "pop_catchment": 90784,
+      "pop_served": 14065,
+      "pop_unserved": 76719,
+      "pop_coverage_fraction": 0.1549,
+      "revenue_left": 3452345,
+      "feeders": [
+        {
+          "stop_id": "38122",
+          "name": "ITPL Metro Station",
+          "lon": 77.7373,
+          "lat": 12.98754,
+          "dist_m": 52.2,
+          "n_routes": 3
+        },
+        {
+          "stop_id": "38121",
+          "name": "ITPL Metro Station",
+          "lon": 77.7373,
+          "lat": 12.98774,
+          "dist_m": 52.2,
+          "n_routes": 4
+        },
+        {
+          "stop_id": "20866",
+          "name": "ITPL",
+          "lon": 77.73704,
+          "lat": 12.98766,
+          "dist_m": 79.3,
+          "n_routes": 22
+        },
+        {
+          "stop_id": "20865",
+          "name": "ITPL",
+          "lon": 77.73636,
+          "lat": 12.98754,
+          "dist_m": 153.5,
+          "n_routes": 21
+        }
+      ]
+    },
+    {
+      "stop_id": "VDHP",
+      "name": "Nallurahalli",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 4,
+      "nearest_bus_m": 213.8,
+      "n_routes": 30,
+      "n_covered_stops": 367,
+      "coverage_fraction": 0.1227,
+      "pop_catchment": 104117,
+      "pop_served": 14823,
+      "pop_unserved": 89294,
+      "pop_coverage_fraction": 0.1424,
+      "revenue_left": 4018216,
+      "feeders": [
+        {
+          "stop_id": "21277",
+          "name": "White Field Bus Station (Vydehi Hospital)",
+          "lon": 77.72684,
+          "lat": 12.97642,
+          "dist_m": 213.8,
+          "n_routes": 15
+        },
+        {
+          "stop_id": "23656",
+          "name": "White Field Bus Station (Vydehi Hospital)",
+          "lon": 77.72693,
+          "lat": 12.9774,
+          "dist_m": 237.5,
+          "n_routes": 15
+        },
+        {
+          "stop_id": "20948",
+          "name": "KTPO",
+          "lon": 77.72242,
+          "lat": 12.9768,
+          "dist_m": 268.1,
+          "n_routes": 11
+        },
+        {
+          "stop_id": "20949",
+          "name": "KTPO",
+          "lon": 77.72225,
+          "lat": 12.97702,
+          "dist_m": 289.0,
+          "n_routes": 14
+        }
+      ]
+    },
+    {
+      "stop_id": "SSHP",
+      "name": "Sri Sathya Sai Hospital",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 2,
+      "nearest_bus_m": 124.1,
+      "n_routes": 28,
+      "n_covered_stops": 316,
+      "coverage_fraction": 0.1202,
+      "pop_catchment": 103763,
+      "pop_served": 13441,
+      "pop_unserved": 90321,
+      "pop_coverage_fraction": 0.1295,
+      "revenue_left": 4064454,
+      "feeders": [
+        {
+          "stop_id": "21161",
+          "name": "Sathya Sai Hospital",
+          "lon": 77.72773,
+          "lat": 12.9823,
+          "dist_m": 124.1,
+          "n_routes": 14
+        },
+        {
+          "stop_id": "21160",
+          "name": "Sathya Sai Hospital",
+          "lon": 77.72811,
+          "lat": 12.9827,
+          "dist_m": 177.7,
+          "n_routes": 14
+        }
+      ]
+    },
+    {
+      "stop_id": "KDNH",
+      "name": "Kundalahalli",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 6,
+      "nearest_bus_m": 82.8,
+      "n_routes": 25,
+      "n_covered_stops": 296,
+      "coverage_fraction": 0.1143,
+      "pop_catchment": 127917,
+      "pop_served": 15976,
+      "pop_unserved": 111942,
+      "pop_coverage_fraction": 0.1249,
+      "revenue_left": 5037389,
+      "feeders": [
+        {
+          "stop_id": "38798",
+          "name": "Kundalahalli Metro Station",
+          "lon": 77.71632,
+          "lat": 12.97753,
+          "dist_m": 82.8,
+          "n_routes": 14
+        },
+        {
+          "stop_id": "38799",
+          "name": "Kundalahalli Metro Station",
+          "lon": 77.71636,
+          "lat": 12.9774,
+          "dist_m": 89.5,
+          "n_routes": 11
+        },
+        {
+          "stop_id": "21152",
+          "name": "SAP Labs",
+          "lon": 77.71448,
+          "lat": 12.97765,
+          "dist_m": 117.4,
+          "n_routes": 11
+        },
+        {
+          "stop_id": "21153",
+          "name": "SAP Labs",
+          "lon": 77.71439,
+          "lat": 12.97782,
+          "dist_m": 129.5,
+          "n_routes": 14
+        },
+        {
+          "stop_id": "20849",
+          "name": "I Gate",
+          "lon": 77.71863,
+          "lat": 12.97734,
+          "dist_m": 334.5,
+          "n_routes": 14
+        },
+        {
+          "stop_id": "20848",
+          "name": "I Gate",
+          "lon": 77.71882,
+          "lat": 12.97717,
+          "dist_m": 357.0,
+          "n_routes": 11
+        }
+      ]
+    },
+    {
+      "stop_id": "WHTM",
+      "name": "Whitefield (Kadugodi)",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 5,
+      "nearest_bus_m": 37.7,
+      "n_routes": 71,
+      "n_covered_stops": 731,
+      "coverage_fraction": 0.1138,
+      "pop_catchment": 56252,
+      "pop_served": 8525,
+      "pop_unserved": 47727,
+      "pop_coverage_fraction": 0.1516,
+      "revenue_left": 2147702,
+      "feeders": [
+        {
+          "stop_id": "36763",
+          "name": "Kadugodi Metro Station",
+          "lon": 77.75796,
+          "lat": 12.99532,
+          "dist_m": 37.7,
+          "n_routes": 4
+        },
+        {
+          "stop_id": "20902",
+          "name": "Kadugodi Bus Station",
+          "lon": 77.75855,
+          "lat": 12.99563,
+          "dist_m": 74.9,
+          "n_routes": 48
+        },
+        {
+          "stop_id": "38642",
+          "name": "Kadugodi Bus Station Arrival",
+          "lon": 77.7585,
+          "lat": 12.99596,
+          "dist_m": 77.7,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "20901",
+          "name": "Kadugodi Bridge",
+          "lon": 77.75769,
+          "lat": 12.99448,
+          "dist_m": 130.4,
+          "n_routes": 35
+        },
+        {
+          "stop_id": "20900",
+          "name": "Kadugodi Bridge",
+          "lon": 77.75775,
+          "lat": 12.99439,
+          "dist_m": 139.6,
+          "n_routes": 30
+        }
+      ]
+    },
+    {
+      "stop_id": "KDGD",
+      "name": "Kadugodi Tree Park",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 3,
+      "nearest_bus_m": 81.9,
+      "n_routes": 39,
+      "n_covered_stops": 426,
+      "coverage_fraction": 0.1115,
+      "pop_catchment": 78874,
+      "pop_served": 11493,
+      "pop_unserved": 67382,
+      "pop_coverage_fraction": 0.1457,
+      "revenue_left": 3032172,
+      "feeders": [
+        {
+          "stop_id": "20681",
+          "name": "BPL",
+          "lon": 77.74768,
+          "lat": 12.98531,
+          "dist_m": 81.9,
+          "n_routes": 21
+        },
+        {
+          "stop_id": "20680",
+          "name": "BPL",
+          "lon": 77.74828,
+          "lat": 12.98525,
+          "dist_m": 144.8,
+          "n_routes": 22
+        },
+        {
+          "stop_id": "20800",
+          "name": "GR Tech Park ITPL",
+          "lon": 77.74351,
+          "lat": 12.98666,
+          "dist_m": 396.1,
+          "n_routes": 21
+        }
+      ]
+    },
+    {
+      "stop_id": "CLGA",
+      "name": "Challaghatta",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 2,
+      "nearest_bus_m": 137.1,
+      "n_routes": 22,
+      "n_covered_stops": 286,
+      "coverage_fraction": 0.101,
+      "pop_catchment": 29439,
+      "pop_served": 6910,
+      "pop_unserved": 22529,
+      "pop_coverage_fraction": 0.2347,
+      "revenue_left": 1013796,
+      "feeders": [
+        {
+          "stop_id": "21142",
+          "name": "RR Medical College",
+          "lon": 77.46058,
+          "lat": 12.89633,
+          "dist_m": 137.1,
+          "n_routes": 14
+        },
+        {
+          "stop_id": "35390",
+          "name": "RR Medical College",
+          "lon": 77.46084,
+          "lat": 12.89618,
+          "dist_m": 138.8,
+          "n_routes": 8
+        }
+      ]
+    },
+    {
+      "stop_id": "UWVL",
+      "name": "Hopefarm Channasandra",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 1,
+      "nearest_bus_m": 361.8,
+      "n_routes": 25,
+      "n_covered_stops": 308,
+      "coverage_fraction": 0.0849,
+      "pop_catchment": 68158,
+      "pop_served": 7699,
+      "pop_unserved": 60458,
+      "pop_coverage_fraction": 0.113,
+      "revenue_left": 2720623,
+      "feeders": [
+        {
+          "stop_id": "20836",
+          "name": "Hope Farm",
+          "lon": 77.75261,
+          "lat": 12.98429,
+          "dist_m": 361.8,
+          "n_routes": 25
+        }
+      ]
+    },
+    {
+      "stop_id": "TGTP",
+      "name": "Thalaghattapura",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 8,
+      "nearest_bus_m": 7.9,
+      "n_routes": 9,
+      "n_covered_stops": 188,
+      "coverage_fraction": 0.0804,
+      "pop_catchment": 80945,
+      "pop_served": 5973,
+      "pop_unserved": 74972,
+      "pop_coverage_fraction": 0.0738,
+      "revenue_left": 3373727,
+      "feeders": [
+        {
+          "stop_id": "35890",
+          "name": "Thalaghattapura Metro Station",
+          "lon": 77.53833,
+          "lat": 12.87143,
+          "dist_m": 7.9,
+          "n_routes": 5
+        },
+        {
+          "stop_id": "37739",
+          "name": "Thalagattapura Metro Station",
+          "lon": 77.53854,
+          "lat": 12.87128,
+          "dist_m": 20.9,
+          "n_routes": 4
+        },
+        {
+          "stop_id": "22538",
+          "name": "Thalagattapura",
+          "lon": 77.53705,
+          "lat": 12.86958,
+          "dist_m": 250.1,
+          "n_routes": 4
+        },
+        {
+          "stop_id": "22539",
+          "name": "Thalagattapura",
+          "lon": 77.53685,
+          "lat": 12.86958,
+          "dist_m": 263.4,
+          "n_routes": 3
+        },
+        {
+          "stop_id": "30471",
+          "name": "Judicial Layout",
+          "lon": 77.53933,
+          "lat": 12.86837,
+          "dist_m": 351.3,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "28759",
+          "name": "Manjunatha Kalyana Mantapa",
+          "lon": 77.53825,
+          "lat": 12.87459,
+          "dist_m": 352.4,
+          "n_routes": 1
+        },
+        {
+          "stop_id": "30472",
+          "name": "Judicial Layout 8th Main",
+          "lon": 77.53935,
+          "lat": 12.86833,
+          "dist_m": 356.2,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "33811",
+          "name": "Manjunatha Kalyana Mantapa",
+          "lon": 77.53819,
+          "lat": 12.87474,
+          "dist_m": 369.3,
+          "n_routes": 1
+        }
+      ]
+    },
+    {
+      "stop_id": "GDCP",
+      "name": "Garudacharpalya",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 4,
+      "nearest_bus_m": 186.0,
+      "n_routes": 16,
+      "n_covered_stops": 143,
+      "coverage_fraction": 0.0746,
+      "pop_catchment": 200578,
+      "pop_served": 18754,
+      "pop_unserved": 181824,
+      "pop_coverage_fraction": 0.0935,
+      "revenue_left": 8182077,
+      "feeders": [
+        {
+          "stop_id": "21781",
+          "name": "Brook Steel ESI",
+          "lon": 77.70535,
+          "lat": 12.9931,
+          "dist_m": 186.0,
+          "n_routes": 8
+        },
+        {
+          "stop_id": "21782",
+          "name": "Brook Steel ESI",
+          "lon": 77.70547,
+          "lat": 12.99295,
+          "dist_m": 202.7,
+          "n_routes": 8
+        },
+        {
+          "stop_id": "21954",
+          "name": "Garudacharpalya",
+          "lon": 77.70172,
+          "lat": 12.99388,
+          "dist_m": 217.4,
+          "n_routes": 8
+        },
+        {
+          "stop_id": "21953",
+          "name": "Garudacharpalya",
+          "lon": 77.70158,
+          "lat": 12.99403,
+          "dist_m": 236.2,
+          "n_routes": 8
+        }
+      ]
+    },
+    {
+      "stop_id": "NGSA",
+      "name": "Nagasandra",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 6,
+      "nearest_bus_m": 62.8,
+      "n_routes": 29,
+      "n_covered_stops": 424,
+      "coverage_fraction": 0.0731,
+      "pop_catchment": 198479,
+      "pop_served": 21794,
+      "pop_unserved": 176685,
+      "pop_coverage_fraction": 0.1098,
+      "revenue_left": 7950827,
+      "feeders": [
+        {
+          "stop_id": "29231",
+          "name": "Nagasandra Metro Staiton",
+          "lon": 77.49961,
+          "lat": 13.04817,
+          "dist_m": 62.8,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "34055",
+          "name": "Nagasandra Metro Station",
+          "lon": 77.49947,
+          "lat": 13.04779,
+          "dist_m": 75.5,
+          "n_routes": 3
+        },
+        {
+          "stop_id": "21877",
+          "name": "Deepak Factory",
+          "lon": 77.50135,
+          "lat": 13.04749,
+          "dist_m": 140.5,
+          "n_routes": 13
+        },
+        {
+          "stop_id": "24818",
+          "name": "Deepak Factory",
+          "lon": 77.50159,
+          "lat": 13.04704,
+          "dist_m": 186.6,
+          "n_routes": 16
+        },
+        {
+          "stop_id": "22622",
+          "name": "Widia Factory",
+          "lon": 77.497,
+          "lat": 13.04907,
+          "dist_m": 363.0,
+          "n_routes": 11
+        },
+        {
+          "stop_id": "23313",
+          "name": "Widia Factory",
+          "lon": 77.49664,
+          "lat": 13.04877,
+          "dist_m": 390.9,
+          "n_routes": 16
+        }
+      ]
+    },
+    {
+      "stop_id": "MDVP",
+      "name": "Singayyanapalya",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 4,
+      "nearest_bus_m": 232.0,
+      "n_routes": 16,
+      "n_covered_stops": 143,
+      "coverage_fraction": 0.0724,
+      "pop_catchment": 240648,
+      "pop_served": 22836,
+      "pop_unserved": 217812,
+      "pop_coverage_fraction": 0.0949,
+      "revenue_left": 9801555,
+      "feeders": [
+        {
+          "stop_id": "22238",
+          "name": "Mahadevapura",
+          "lon": 77.69069,
+          "lat": 12.9972,
+          "dist_m": 232.0,
+          "n_routes": 8
+        },
+        {
+          "stop_id": "22237",
+          "name": "Mahadevapura",
+          "lon": 77.69064,
+          "lat": 12.99738,
+          "dist_m": 244.0,
+          "n_routes": 8
+        },
+        {
+          "stop_id": "22492",
+          "name": "Singaianapalya Phoenix",
+          "lon": 77.69531,
+          "lat": 12.9956,
+          "dist_m": 300.0,
+          "n_routes": 8
+        },
+        {
+          "stop_id": "22493",
+          "name": "Singaianapalya Phoenix",
+          "lon": 77.6954,
+          "lat": 12.99542,
+          "dist_m": 316.5,
+          "n_routes": 8
+        }
+      ]
+    },
+    {
+      "stop_id": "APTS",
+      "name": "Silk Institute",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 6,
+      "nearest_bus_m": 14.6,
+      "n_routes": 7,
+      "n_covered_stops": 169,
+      "coverage_fraction": 0.069,
+      "pop_catchment": 37788,
+      "pop_served": 2852,
+      "pop_unserved": 34936,
+      "pop_coverage_fraction": 0.0755,
+      "revenue_left": 1572141,
+      "feeders": [
+        {
+          "stop_id": "35891",
+          "name": "Silk Institute Metro Station",
+          "lon": 77.52993,
+          "lat": 12.8616,
+          "dist_m": 14.6,
+          "n_routes": 4
+        },
+        {
+          "stop_id": "36170",
+          "name": "Silk Institute metro station",
+          "lon": 77.52985,
+          "lat": 12.86182,
+          "dist_m": 14.7,
+          "n_routes": 3
+        },
+        {
+          "stop_id": "38821",
+          "name": "Nice Road Junction",
+          "lon": 77.52879,
+          "lat": 12.86004,
+          "dist_m": 225.5,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "23600",
+          "name": "Jyothi Farm",
+          "lon": 77.52896,
+          "lat": 12.85993,
+          "dist_m": 226.4,
+          "n_routes": 4
+        },
+        {
+          "stop_id": "38820",
+          "name": "NICE Road Junction",
+          "lon": 77.52879,
+          "lat": 12.86,
+          "dist_m": 229.2,
+          "n_routes": 0
+        },
+        {
+          "stop_id": "23638",
+          "name": "Jyothi Farm",
+          "lon": 77.52876,
+          "lat": 12.85983,
+          "dist_m": 246.8,
+          "n_routes": 3
+        }
+      ]
+    },
+    {
+      "stop_id": "DKIA",
+      "name": "Hoodi",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 1,
+      "nearest_bus_m": 26.6,
+      "n_routes": 8,
+      "n_covered_stops": 81,
+      "coverage_fraction": 0.066,
+      "pop_catchment": 156926,
+      "pop_served": 12841,
+      "pop_unserved": 144085,
+      "pop_coverage_fraction": 0.0818,
+      "revenue_left": 6483826,
+      "feeders": [
+        {
+          "stop_id": "38419",
+          "name": "Hoodi Metro Station",
+          "lon": 77.7115,
+          "lat": 12.98863,
+          "dist_m": 26.6,
+          "n_routes": 8
+        }
+      ]
+    },
+    {
+      "stop_id": "VJRH",
+      "name": "Vajarahalli",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 6,
+      "nearest_bus_m": 22.3,
+      "n_routes": 7,
+      "n_covered_stops": 169,
+      "coverage_fraction": 0.0656,
+      "pop_catchment": 142897,
+      "pop_served": 12712,
+      "pop_unserved": 130185,
+      "pop_coverage_fraction": 0.089,
+      "revenue_left": 5858323,
+      "feeders": [
+        {
+          "stop_id": "38361",
+          "name": "Vajarahalli Metro Station",
+          "lon": 77.54459,
+          "lat": 12.8773,
+          "dist_m": 22.3,
+          "n_routes": 3
+        },
+        {
+          "stop_id": "38360",
+          "name": "Vajarahalli Metro Station",
+          "lon": 77.54498,
+          "lat": 12.87768,
+          "dist_m": 37.5,
+          "n_routes": 4
+        },
+        {
+          "stop_id": "21723",
+          "name": "Bayyanapalya",
+          "lon": 77.54374,
+          "lat": 12.87558,
+          "dist_m": 232.5,
+          "n_routes": 4
+        },
+        {
+          "stop_id": "21724",
+          "name": "Bayyanapalya",
+          "lon": 77.54355,
+          "lat": 12.87554,
+          "dist_m": 246.6,
+          "n_routes": 3
+        },
+        {
+          "stop_id": "22409",
+          "name": "Raghuvanahalli Cross",
+          "lon": 77.54602,
+          "lat": 12.88072,
+          "dist_m": 389.1,
+          "n_routes": 3
+        },
+        {
+          "stop_id": "22408",
+          "name": "Raghuvanahalli Cross",
+          "lon": 77.54621,
+          "lat": 12.88067,
+          "dist_m": 391.9,
+          "n_routes": 4
+        }
+      ]
+    },
+    {
+      "stop_id": "KLPK",
+      "name": "Doddakallasandra",
+      "lines": [
+        "GREEN"
+      ],
+      "feeder_stops": 4,
+      "nearest_bus_m": 23.4,
+      "n_routes": 7,
+      "n_covered_stops": 169,
+      "coverage_fraction": 0.0636,
+      "pop_catchment": 264696,
+      "pop_served": 25569,
+      "pop_unserved": 239127,
+      "pop_coverage_fraction": 0.0966,
+      "revenue_left": 10760736,
+      "feeders": [
+        {
+          "stop_id": "38363",
+          "name": "Doddakallasandra Metro Station",
+          "lon": 77.55255,
+          "lat": 12.88469,
+          "dist_m": 23.4,
+          "n_routes": 3
+        },
+        {
+          "stop_id": "38362",
+          "name": "Doddakallasandra Metro Station",
+          "lon": 77.55312,
+          "lat": 12.88467,
+          "dist_m": 39.2,
+          "n_routes": 4
+        },
+        {
+          "stop_id": "21982",
+          "name": "Gubbalala Gate",
+          "lon": 77.55153,
+          "lat": 12.88423,
+          "dist_m": 141.2,
+          "n_routes": 4
+        },
+        {
+          "stop_id": "21983",
+          "name": "Gubbalala Gate",
+          "lon": 77.55134,
+          "lat": 12.88431,
+          "dist_m": 158.5,
+          "n_routes": 3
+        }
+      ]
+    },
+    {
+      "stop_id": "KGIT",
+      "name": "Kengeri",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 1,
+      "nearest_bus_m": 39.8,
+      "n_routes": 0,
+      "n_covered_stops": 0,
+      "coverage_fraction": 0.0,
+      "pop_catchment": 49919,
+      "pop_served": 0,
+      "pop_unserved": 49919,
+      "pop_coverage_fraction": 0.0,
+      "revenue_left": 2246358,
+      "feeders": [
+        {
+          "stop_id": "38620",
+          "name": "Kengeri Metro Station",
+          "lon": 77.47635,
+          "lat": 12.90763,
+          "dist_m": 39.8,
+          "n_routes": 0
+        }
+      ]
+    },
+    {
+      "stop_id": "VWIA",
+      "name": "Seetharampalya",
+      "lines": [
+        "PURPLE"
+      ],
+      "feeder_stops": 1,
+      "nearest_bus_m": 16.5,
+      "n_routes": 0,
+      "n_covered_stops": 0,
+      "coverage_fraction": 0.0,
+      "pop_catchment": 159320,
+      "pop_served": 0,
+      "pop_unserved": 159320,
+      "pop_coverage_fraction": 0.0,
+      "revenue_left": 7169392,
+      "feeders": [
+        {
+          "stop_id": "37988",
+          "name": "Seetharampalya Metro Station",
+          "lon": 77.70891,
+          "lat": 12.98077,
+          "dist_m": 16.5,
+          "n_routes": 0
+        }
+      ]
+    }
+  ]
+}

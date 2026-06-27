@@ -14,3 +14,7 @@ dist/
 /Bengaluru_HaltonGrids/
 /Bengaluru_HaltonGrids-*.zip
 /data/
+
+# Incidental local images (the app uses public/dult-logo.png)
+Screenshot*.png
+/DULT-Karnataka.png
