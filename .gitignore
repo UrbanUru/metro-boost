@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Local Claude Code settings
+.claude/settings.local.json
+
+# Node
+node_modules/
+dist/
+
+# Data — kept local, not tracked in git
+/Bengaluru/
+/Bengaluru-*.zip
+/Bengaluru_HaltonGrids/
+/Bengaluru_HaltonGrids-*.zip
+/data/
